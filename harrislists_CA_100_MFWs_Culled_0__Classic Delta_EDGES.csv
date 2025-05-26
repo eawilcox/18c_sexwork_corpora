@@ -1,0 +1,7 @@
+Source,Target,Weight,Type
+Harris_1788A.rtf,Harris_1793.rtf,6,undirected
+Harris_1788A.rtf,placeholder,5,undirected
+Harris_1793.rtf,Harris_1788A.rtf,6,undirected
+Harris_1793.rtf,placeholder,4,undirected
+placeholder,Harris_1788A.rtf,5,undirected
+placeholder,Harris_1793.rtf,4,undirected
