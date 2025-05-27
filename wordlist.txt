@@ -4,5003 +4,5003 @@
 # You can either delete unwanted words, or mark them with "#"
 # -----------------------------------------------------------------------
 
-the
-and
-of
-her
-a
-to
-she
-is
-in
-with
-that
-as
-for
-has
-but
-this
-be
-not
-no
-miss
-which
-at
-very
-are
-it
-by
-will
-all
-good
-we
-an
-so
-from
-who
-eyes
-every
-one
-his
-can
-well
-on
-when
-love
-he
-you
-was
-have
-mrs
-any
-if
-lady
-or
-may
-most
-n
-fine
-more
-their
-being
-two
-been
-about
-had
-hair
-would
-such
-fair
-girl
-now
-our
-than
-much
-never
-some
-pleasure
-they
-rather
-nature
-first
-little
-man
-time
-young
-street
-him
-make
-those
-charms
-into
-s
-where
-cannot
-give
-must
-without
-beauty
-great
-years
-yet
-does
-present
-them
-then
-dark
-genteel
-only
-pretty
-soon
-what
-always
-complexion
-many
-r
-agreeable
-black
-ever
-its
-tall
-teeth
-woman
-d
-other
-there
-delight
-gentleman
-made
-short
-whole
-amorous
-here
-like
-whose
-face
-take
-up
-eye
-guinea
-herself
-life
-still
-fond
-hand
-i
-upon
-disposition
-long
-pleasing
-should
-size
-w
-beautiful
-c
-full
-guineas
-nor
-venus
-heart
-though
-age
-arms
-l
-out
-town
-b
-joy
-lovely
-might
-my
-h
-house
-lively
-night
-own
-person
-small
-your
-art
-months
-same
-sport
-till
-white
-wish
-above
-after
-breasts
-desire
-do
-each
-however
-old
-price
-too
-way
-blue
-could
-least
-lips
-seems
-companion
-friend
-indeed
-me
-part
-place
-sweet
-bed
-before
-generally
-just
-piece
-t
-come
-found
-half
-left
-mr
-once
-under
-down
-figure
-less
-let
-name
-over
-st
-temper
-wanton
-whilst
-youth
-company
-five
-how
-large
-natural
-often
-please
-charming
-cyprian
-enchanting
-expects
-fire
-home
-manner
-money
-mouth
-say
-skin
-true
-twenty
-able
-best
-bosom
-day
-delicate
-female
-friends
-keeping
-kind
-ladies
-said
-soft
-soul
-think
-tho
-thought
-year
-below
-business
-desirable
-find
-having
-last
-m
-set
-these
-bliss
-elegant
-er
-few
-go
-kiss
-light
-makes
-ns
-o
-particularly
-rapture
-seem
-three
-were
-world
-y
-almost
-dress
-e
-far
-happy
-keeps
-limbs
-means
-newman-street
-p
-pair
-parts
-plump
-sense
-tempting
-away
-brown
-conversation
-enjoyment
-favourite
-form
-formed
-gives
-j
-known
-leg
-luscious
-mistress
-nothing
-power
-seldom
-taste
-thinks
-took
-another
-better
-both
-care
-country
-dear
-education
-fully
-general
-handsome
-ing
-lately
-lives
-lovers
-near
-open
-point
-public
-quite
-round
-see
-seen
-shall
-since
-through
-visit
-warm
-again
-betsy
-did
-foot
-hour
-joys
-lady^s
-loves
-meet
-new
-nineteen
-nymph
-particular
-perfectly
-pounds
-remarkably
-therefore
-breast
-countenance
-desires
-even
-features
-firm
-k
-keep
-keeper
-looks
-met
-middle
-moment
-oh
-perhaps
-re-
-receive
-red
-six
-soho
-tender
-variety
-wishes
-within
-account
-admirers
-attack
-back
-be-
-birch
-certain
-colour
-degree
-dresses
-dying
-elegantly
-embrace
-enough
-f
-fortune
-frame
-fresh
-g
-green
-high
-knowing
-look
-loose
-lost
-love^s
-number
-off
-parents
-pay
-possesses
-pride
-proper
-readers
-ready
-ringlets
-rod
-sure
-takes
-thing
-thou
-told
-tongue
-turn
-want
-while
-women
-beauties
-bed-fellow
-birth
-charm
-cheeks
-court
-daughter
-favours
-field
-floor
-frequently
-gave
-grace
-greatest
-humour
-in-
-line
-ll
-melting
-mutual
-none
-others
-panting
-pound
-put
-rd
-reader
-sex
-shillings
-speak
-sum
-support
-taught
-us
-use
-whom
-among
-appetite
-began
-boy
-cast
-certainly
-charlotte
-charmer
-chearful
-child
-delicious
-delightful
-east
-ex-
-fall
-flame
-four
-french
-game
-giving
-glass
-goddess
-graces
-heaven
-know
-language
-leave
-low
-nancy
-native
-nature^s
-neat
-obliged
-partner
-passion
-peculiar
-perfect
-period
-rose
-speaks
-tell
-ten
-thee
-thy
-twelve
-upper
-v
-altho
-appear
-attention
-behold
-blind
-burning
-captain
-coming
-con-
-covered
-customers
-dancing
-during
-early
-end
-extraordinary
-fashion
-free
-gentlemen
-girls
-given
-glance
-glow
-grove
-hazel
-height
-honour
-kept
-legs
-liquid
-lover
-loving
-market
-men
-mind
-mother
-neither
-next
-objection
-opportunity
-pleased
-possibly
-powerful
-queen
-received
-regular
-return
-rous
-share
-side
-sings
-sparkling
-spot
-spring
-stature
-taken
-thro
-tis
-tolerable
-un-
-veins
-view
-visits
-acquaintance
-ago
-air
-appearance
-approach
-between
-born
-bottom
-brought
-called
-calls
-cause
-close
-com-
-common
-dances
-deal
-disagreeable
-dressed
-easily
-either
-en-
-engaging
-enter
-expressive
-fat
-get
-got
-gr
-health
-hue
-influence
-liberty
-list
-looking
-lusty
-male
-mercenary
-merely
-night^s
-noble
-object
-page
-parlour
-pass
-play
-pocket
-possible
-pouting
-read
-rich
-roses
-silent
-snow
-spirit
-sufficiently
-touch
-tresses
-truly
-truth
-tt
-twenty-four
-utmost
-visitors
-ye
-action
-actions
-add
-admire
-advantage
-affable
-alone
-apartments
-arrived
-ask
-behaviour
-blooming
-boast
-br
-breath
-brunette
-bubbies
-busy
-ch
-character
-choicest
-cl
-consequence
-considerable
-constantly
-constitution
-dart
-delicately
-demands
-done
-drinking
-easy
-eighteen
-en
-english
-enjoys
-excellent
-fate
-feelings
-feels
-fellow
-fields
-fill
-finely
-flood
-garden
-gay
-generous
-graceful
-harriet
-head
-i^ll
-immediately
-invite
-inviting
-kisses
-knowledge
-knows
-late
-length
-lies
-lived
-london
-lose
-lower
-mark
-melt
-minute
-morning
-mould
-mount
-ms
-note
-ornament
-pain
-past
-per-
-perfection
-pleasures
-poor
-possessed
-press
-pressure
-pretend
-receives
-returns
-road
-satisfied
-scarcely
-seek
-sent
-sighs
-sight
-simplicity
-single
-situation
-smallest
-smiles
-sometimes
-song
-sought
-sports
-stand
-talk
-thus
-together
-train
-twine
-uncommon
-value
-various
-virtue
-visitor
-whether
-willing
-words
-worth
-abilities
-acquainted
-against
-alabaster
-although
-ardour
-arm
-assumes
-beam
-beat
-become
-becoming
-bedfellow
-beyond
-blest
-blood
-bloom
-brandy
-bring
-brows
-call
-cavendish-square
-celebrated
-cheek
-city
-content
-convinced
-coral
-course
-covent-garden
-curious
-dance
-de-
-dead
-death
-delights
-displays
-doubt
-drink
-effects
-entered
-equal
-equally
-except
-experience
-extreme
-fancy
-father
-fear
-feel
-follow
-force
-form^d
-forth
-fraught
-frequent
-gain
-gifts
-going
-golden
-grown
-happiness
-hath
-hearts
-heaving
-hers
-highly
-himself
-hope
-hours
-idea
-juice
-languishing
-lass
-ld
-le
-limb
-lodgings
-longer
-married
-mere
-merit
-merry
-modesty
-move
-naked
-natured
-nd
-neck
-nine
-original
-ought
-oxford
-pitch
-pleases
-pour
-practice
-promise
-proportioned
-prove
-provided
-prudence
-purest
-raptures
-rathbone
-real
-reason
-recommendation
-rest
-rising
-ruin
-says
-scarce
-school
-season
-senses
-service
-several
-she^ll
-shop
-sixteen
-smart
-smile
-sooner
-souls
-square
-stranger
-strength
-strong
-success
-suffer
-sufficient
-suit
-swelling
-tell-tale
-theatres
-there^s
-thirty
-thrilling
-times
-ton
-trade
-tune
-twenty-five
-unless
-vain
-virgin
-vivacity
-warmth
-weapon
-went
-word
-ability
-abroad
-accept
-accomplishments
-also
-animated
-antagonist
-apartment
-applied
-attract
-attractions
-auburn
-bacchus
-balmy
-beats
-beautifully
-became
-beheld
-beneath
-bought
-came
-careful
-case
-chance
-chariot
-choice
-circumstances
-clock
-conduct
-confined
-contrasted
-covent
-critical
-desirous
-disgrace
-display
-draw
-eager
-educated
-effect
-elastic
-emma
-engaged
-enhance
-evening
-extatic
-extremely
-fail
-fails
-favour
-feathers
-feature
-felt
-finest
-fires
-fit
-flowing
-fluid
-folds
-fondness
-forcibly
-formerly
-gentle-
-glossy
-gold
-gone
-good-natured
-grand
-gratification
-greater
-grot
-guess
-guest
-hands
-heard
-highest
-hills
-holds
-hops
-human
-impossible
-inclined
-indifferent
-itself
-keepers
-lay
-likewise
-lily
-live
-lodging
-lt
-lust
-maiden
-man^s
-manly
-meeting
-ment
-method
-moulton-street
-music
-mysteries
-nose
-notice
-nt
-occasion
-officer
-oxford-street
-paid
-paint
-pant
-paramour
-partial
-partiality
-pity
-places
-plays
-poet
-port
-possess
-possessing
-potent
-profession
-properly
-pulse
-raise
-raising
-rate
-reduced
-refuse
-remarkable
-render
-renew
-repetition
-richest
-rn
-rt
-sable
-satiety
-sensibility
-sensible
-shape
-shaped
-she^s
-shew
-sigh
-sisterhood
-snowy
-sons
-south
-spark
-stands
-stars
-state
-stay
-sun
-surely
-swearing
-symmetry
-themselves
-things
-titchfield-street
-transports
-try
-twenty-two
-voice
-voluptuous
-walk
-wapping
-ways
-whip
-wife
-wished
-wit
-wn
-work
-worthy
-yield
-acquired
-act
-active
-admit
-advise
-affability
-afraid
-aid
-alarm
-alike
-am
-amongst
-ample
-animates
-attached
-attachment
-attained
-aunt
-bad
-bent
-bewitching
-blended
-blissful
-bottle
-bounds
-bouquet
-boxes
-bright
-brilliant
-brisk
-bucks
-castle-street
-centre
-change
-chatty
-claim
-coloured
-comfortable
-command
-commands
-commonly
-compliment
-conscious
-consent
-convenient
-couch
-cover
-crown
-curls
-darts
-days
-de
-debauched
-demand
-deserve
-despise
-dis-
-divide
-door
-drawn
-drest
-earth
-eighteenth
-elegance
-embraces
-eminent
-england
-enjoy
-enormous
-erected
-es
-exceeding
-expect
-expected
-experienced
-fa-
-farther
-feast
-feeling
-fifteen
-fills
-flaxen
-followed
-food
-frail
-freedom
-frequents
-friction
-fringe
-gaze
-genteely
-gentle
-giddy
-glanville-street
-goes
-good-nature
-gush
-heav
-heave
-heroine
-hopes
-humoured
-inclination
-inconsiderable
-infant
-innocence
-inspire
-interest
-invites
-ivory
-james^s
-join
-ke
-keen
-land
-lascivious
-law
-lays
-leaving
-led
-leicester
-liberal
-lisle-street
-loss
-lp
-ls
-luxury
-mart
-mean
-mediocrity
-member
-mention
-merits
-middlesex
-middling
-mine
-mirth
-moderate
-modest
-morn
-mortal
-motion
-na-
-nay
-necessary
-necessity
-need
-nevertheless
-nice
-niece
-notwithstanding
-nymphs
-oblige
-obliges
-offered
-opens
-otherwise
-overpowered
-parted
-passions
-path
-paying
-perfections
-performance
-perfume
-persuade
-picture
-placed
-plant
-pleasant
-polite
-possession
-pours
-powder
-powerfully
-powers
-prefer
-premises
-presents
-prevent
-principal
-profusion
-proof
-proofs
-proved
-pure
-purse
-quality
-question
-quick
-rap-
-rb
-refuses
-regard
-remains
-rendered
-restore
-ring
-rites
-ruby
-run
-safe
-saint
-satisfaction
-satisfy
-second
-send
-servant
-served
-sh
-shame
-shed
-shoe
-shoot
-show
-shrine
-skill
-sleep
-snug
-softness
-something
-spend
-spent
-sported
-sportswoman
-sprightly
-stiled
-strand
-strange
-strictest
-striking
-superior
-sweetness
-sweets
-swim
-talents
-temple
-theatre
-therein
-thighs
-thin
-thousand
-throw
-tinge
-tints
-tion
-tip
-tired
-tolerably
-torrent
-transport
-treasure
-treat
-tree
-turned
-turning
-twenty-one
-twenty-six
-twice
-twist
-used
-valuable
-vanity
-venus^s
-vigor
-vigorous
-vigour
-visited
-vulgarity
-wear
-wears
-whatever
-wide
-widow
-win
-wine
-witching
-withstand
-won
-wonder
-yielding
-york-street
-abandoned
-ac-
-accepted
-accomplished
-according
-activity
-acts
-ad-
-adapted
-addition
-admiration
-admired
-admirer
-admission
-adopted
-adorned
-advance
-affirm
-afford
-ah
-airs
-amiable
-amo-
-amusement
-ann
-apparent
-arch^d
-ardor
-army
-artificial
-arts
-assistance
-assure
-at-
-attempt
-attracting
-author
-bank
-bar
-beauti-
-begins
-behind
-believe
-believed
-bestowed
-bl
-ble
-boarding
-bold
-bon
-book
-boot
-bountiful
-breathing
-bred
-bringing
-broke
-bst
-bud
-buds
-burthen
-butcher
-calculated
-capable
-carries
-ce
-central
-charles-street
-chuse
-circle
-citizen
-claims
-class
-clean
-clever
-clothes
-coin
-comes
-complete
-completely
-complying
-conceive
-confess
-confine
-conflict
-conquer
-considered
-constancy
-constant
-continued
-continues
-contrives
-credit
-cruel
-cruelty
-cry
-cupid
-daughters
-dearly
-deceive
-decent
-deep
-deficiency
-defy
-delicacy
-depart
-despair
-destitute
-destroy
-determined
-dexterity
-different
-direction
-disappointed
-discipline
-discovered
-divine
-doing
-double
-drinks
-drives
-due
-dull
-dye
-ear
-ecstasy
-ed
-effeminate
-ele-
-else
-enable
-encounter
-engage
-enters
-entirely
-entrance
-especially
-esteem
-ev
-examine
-expectation
-expression
-exquisite
-exquisitely
-external
-eye-brows
-faces
-faint
-fairest
-faith
-false
-family
-fanny
-fast
-fee
-fight
-figures
-filled
-finding
-finds
-fits
-flash
-fleet
-flow
-flowers
-flows
-flute
-fly
-fold
-font
-foolish
-forget
-former
-forty
-friendly
-front
-fs
-gains
-gallants
-generosity
-genteelly
-genuine
-george
-george^s
-girdle
-glowing
-goat
-god
-goodge-street
-goodness
-government
-gray^s
-gress-street
-grew
-guage
-harbour
-hard
-harris^s
-hear
-heat
-held
-hide
-hillocks
-hold
-hole
-hood
-hospital
-hot
-imagination
-imagine
-imperfections
-impetuous
-inclinations
-independant
-index
-informed
-innocent
-innumerable
-instantly
-instead
-inter-
-involuntary
-irresistible
-itch
-james
-jemmy
-jetty
-jolly
-judge
-king
-king^s
-knack
-labour
-lane
-languishingly
-largest
-lead
-learnt
-leicester-fields
-les
-lewd
-lie
-likes
-lilys
-lines
-ling
-livelihood
-liveliness
-living
-lodger
-lustre
-ly
-mademoiselle
-magic
-maidenhead
-manners
-manoeuvre
-manual
-master
-match
-meal
-measure
-meets
-metal
-moment^s
-motives
-motto
-mutually
-naughty
-ne
-needs
-nobly
-noon
-nosegay
-noticed
-novelty
-observe
-offend
-office
-ones
-operation
-opinion
-orbs
-orient
-pains
-paradise
-paths
-pause
-payment
-perform
-performs
-personal
-pieces
-pillars
-played
-poland-street
-portals
-pos-
-pox
-preceding
-predominant
-prey
-priest
-principles
-pro-
-procuring
-produce
-pronounced
-proves
-qualification
-quarters
-quits
-raven
-reached
-really
-reasons
-reception
-recommend
-refined
-remain
-remained
-renders
-repeated
-replete
-require
-requisite
-residence
-returned
-revel
-richer
-right
-ripe
-rk
-room
-root
-rosy
-rouge
-runs
-russian
-ry
-sacrifice
-sandy
-science
-sd
-sea
-sensation
-sensual
-sesses
-seventeen
-shade
-shift
-shine
-shot
-silk
-sixteenth
-skilled
-society
-soil
-sole
-solely
-somewhat
-son
-sort
-sovereign
-sparkle
-speaking
-sphere
-spirited
-spite
-sportive
-spread
-ss
-stamp
-standard
-stays
-stile
-store
-straight
-strait
-study
-style
-succeed
-sudden
-suffered
-summer
-summers
-supply
-suppose
-supposed
-supreme
-surprising
-sweetly
-swimming
-taking
-tem-
-tenderness
-terms
-thicket
-thine
-thinking
-threw
-tide
-tit
-tone
-tradesman
-transporting
-tribute
-trifling
-trouble
-tumid
-ture
-twenty-eight
-twenty-three
-un
-unadorned
-unaffected
-understand
-understands
-unfeigned
-unfold
-united
-venture
-vice
-violent
-vocal
-volley
-votaries
-votary
-vulgar
-waist
-wales
-wants
-war
-wardour-street
-waves
-weak
-welcome
-well-street
-west
-whence
-whiteness
-whither
-wicked
-wishing
-youthful
-a-
-abbess
-ably
-absolutely
-accommodate
-accustomed
-acknowledged
-acquisition
-across
-addicted
-addressed
-adds
-admir^d
-admitted
-adorns
-advice
-affectation
-affected
-agreeably
-aim
-al-
-allow
-allowed
-allows
-alluring
-along
-amateurs
-amber
-ambitious
-amends
-anchorite
-ancient
-ann-street
-anne
-ansi
-ansicpg
-answer
-antient
-antr
-ap-
-appeared
-appearing
-appears
-apprentice
-approbation
-aquiline
-arch
-armed
-artful
-artfully
-articles
-artillery
-artless
-assertion
-assisted
-assumed
-astray
-attachments
-attorney
-attractive
-attracts
-autumns
-ball
-balls
-balm
-banker
-banquet
-barber
-bath
-bathe
-bay
-bear
-because
-beds
-beginning
-beholder
-beholders
-belly
-bend
-berwick-street
-besides
-bestow
-bestows
-beware
-bewitched
-bid
-bility
-birchen
-blandishments
-blaze
-bless
-blessed
-blows
-blush
-boasts
-body
-bordering
-borders
-borrows
-bound
-box
-brave
-brighton
-broken
-broom
-brooms
-brother
-bum
-burn
-bush
-bushy
-buxom
-callous
-calm
-capacity
-caper
-captain^s
-careless
-carry
-cash
-casket
-castle
-catch
-cautious
-cealment
-centered
-cerulean
-cf
-chains
-champion
-channel
-chanting
-chat
-cheerful
-chest
-chestnut
-chief
-choir
-chose
-chosen
-christian
-church
-church-street
-chusing
-ciently
-circumstance
-civility
-cleanliness
-clear
-clients
-closed
-co-
-coach
-coachman
-cocoaplatform
-cocoartf
-cocoatextscaling
-cold
-colortbl
-combat
-comely
-commerce
-compass
-compelled
-complaisant
-complex-
-compose
-conclude
-confessing
-conjunction
-conjunctively
-consequences
-consider
-containing
-contempt
-contented
-continual
-continually
-contracting
-convert
-conveys
-convincing
-cool
-copious
-copulation
-corner
-corps
-corresponding
-cost
-counsellor
-countries
-countrywomen
-couple
-courier
-courted
-covering
-cr
-cries
-crimson
-crura
-cssrgb
-cull
-cup
-cupidinous
-cupids
-curiosity
-curtain
-dainty
-dame
-darkness
-darling
-darted
-dazzling
-dd
-dealer
-decease
-decency
-deck
-decks
-declares
-deepest
-deftab
-delighted
-demireps
-den
-departure
-deprived
-der
-descend
-descends
-deserted
-deserves
-despises
-die
-died
-difficulty
-dignity
-diminutive
-dimple
-dimples
-discourse
-discovery
-discredit
-disgusting
-dish
-dispense
-displaying
-dissolve
-dissolving
-distil
-dog
-doubtful
-dozen
-dress^d
-drew
-drop
-drops
-drury
-ds
-du
-duke
-duke-street
-duly
-durable
-duration
-dwells
-eagerly
-ease
-eat
-ecstatic
-effectual
-eight
-elapsed
-elasticity
-electric
-elizabeth
-ell
-emanate
-embellished
-emotions
-employment
-empty
-enabled
-endeavours
-enemy
-engagement
-enjoy-
-enjoying
-enjoyments
-enlist
-enlivened
-enraptured
-entering
-entertaining
-entertainment
-entire
-entitled
-entry
-envy
-epitome
-ere
-errata
-errors
-essential
-est
-estimation
-exact
-exactly
-example
-excepting
-excess
-exchange
-excursions
-exhausted
-exhibit
-expandedcolortbl
-expense
-expensive
-expert
-expnd
-expndtw
-expose
-exposed
-extacy
-extend
-extended
-extravagance
-extravagant
-fades
-falls
-famous
-farthing
-father^s
-fatigue
-fault
-favorite
-favors
-fcharset
-feat
-fectly
-feel-
-feet
-feigned
-fetch^d
-ff
-fierce
-finish
-finished
-fir^d
-firmness
-flames
-flavour
-flew
-flight
-flower
-flushed
-flying
-fmodern
-foil
-followers
-fonttbl
-fool
-for-
-ford
-fore
-foreign
-fortunate
-fountain
-fr
-fragrant
-framed
-fraternity
-freely
-frith-street
-frozen
-ful
-fullest
-fun
-furnish
-furnished
-further
-future
-gage
-games
-gantly
-gardens
-gauger
-ge
-ge-
-gen-
-genial
-german-street
-gets
-getting
-glad
-glances
-godf
-gods
-gou
-governess
-graced
-grant
-grape
-grasp
-gratify
-greatly
-grenadiers
-grey
-grin
-grow
-grows
-guarded
-guide
-gularly
-gulf
-gulph
-habit
-hail
-happened
-happiest
-harmony
-harris
-haste
-haughty
-haven
-haviour
-hearted
-heath
-help
-hibernian
-histories
-hn
-hop
-horse
-hounds
-houses
-hu-
-hug
-humid
-hunting
-husband
-i^d
-ignorance
-illiterate
-imaginable
-imagined
-immaculate
-immoderate
-improve
-improves
-incense
-inches
-inclinable
-incomparable
-increase
-indebted
-indecency
-indifference
-indulgence
-indulges
-industry
-inflict
-initiated
-injustice
-inn
-insatiate
-insipid
-instance
-internal
-intolerable
-introduced
-invader
-inward
-ireland
-ish
-italian
-italics
-ivy
-jack
-janitor
-je
-jenny
-jews
-joined
-joint
-jove
-jove^s
-justice
-justly
-kalender
-kelly^s
-kerning
-killing
-kindle
-king-
-lack
-lan-
-languish
-lap
-larger
-lating
-laughs
-lavishly
-lazy
-leads
-learned
-leaves
-lent
-letters
-lewdness
-lieu
-lightening
-liquor
-lisle
-listened
-lists
-locks
-longing
-looked
-lord
-losing
-louisa
-lover^s
-lowest
-luxuriant
-luxurious
-m-ns-n
-mad
-madam
-maddening
-majestic
-maker
-making
-manhood
-mansion
-margaret-street
-margl
-margr
-marked
-marriage
-martial
-mate
-maturity
-mbr
-meanness
-melancholy
-mend
-merchant
-midst
-mighty
-mild
-milky
-misfortune
-mistake
-mistaken
-mistakes
-mode
-moft
-moisture
-mossy
-motive
-moulded
-mounts
-mour
-moving
-murmur
-murmuring
-murmurs
-musician
-musick
-n^s
-names
-naturally
-nds
-neatly
-nectar
-needless
-neighbouring
-nerve
-nes
-newly
-ng
-ngb
-nicest
-nigh
-nineteenth
-nl
-noah
-nobleman
-nocturnal
-notes
-nsh
-nursery
-obey
-obliging
-occasions
-occupies
-ocean
-offer
-officers
-opened
-opening
-orders
-ornamented
-ou
-ous
-owner
-oxford-road
-pace
-paces
-painted
-palate
-pany
-paps
-par
-pard
-pardeftab
-partake
-partightenfactor
-parting
-passage
-passes
-passionately
-patience
-pearl
-pearls
-pects
-peculiarly
-pecuniary
-pen
-pencil
-per
-pered
-perfumed
-permit
-persuaded
-phoebe
-pine
-pit-street
-pitted
-plain
-planted
-pleasantry
-pleasure^s
-plenty
-plexion
-plied
-plough
-plucked
-plunge
-plutus
-points
-politeness
-portland
-position
-pow
-practices
-praise
-pre-
-precious
-prefent
-preference
-prefers
-presses
-prevailed
-prime
-prince
-princess-street
-printed
-proceed
-proceeds
-procure
-productions
-professional
-promises
-prompted
-propensity
-proportion
-prostitution
-protection
-proud
-provoke
-puny
-pupil
-purlieus
-purpose
-pursues
-pursuit
-push^d
-puts
-putting
-qualifications
-qualified
-quarter
-queen-ann-street
-quickly
-quitted
-quiver
-rake
-ranger
-ranked
-rapturous
-rare
-rarely
-rathbone-place
-rds
-re
-reared
-reasonable
-reasonably
-receiv^d
-recollecting
-recourse
-reflect
-reflections
-regretted
-reign
-reigning
-reigns
-religion
-remark
-remark-
-removed
-repair
-repays
-report
-reported
-request
-reserved
-resides
-resisted
-resistless
-resolved
-retailer
-retire
-retired
-retreat
-reveal
-revenge
-review
-rewards
-rg
-ripened
-rity
-river
-rome
-rouse
-rove
-rows
-rr
-rtf
-rth
-ruined
-rules
-rv
-saints
-sake
-salisbury-street
-salute
-sarah
-scandalous
-scene
-scotch
-search
-seat
-secret
-secrets
-security
-seed
-seeing
-seeking
-seemed
-sees
-seize
-sensations
-sensualist
-separate
-serve
-sets
-severe
-severity
-shaded
-shameful
-sheath
-shield
-shilling
-shines
-shops
-shower
-silence
-silly
-sincere
-singular
-sink
-sir
-sister
-sisters
-sixty
-slender
-smell
-smiling
-smooth
-sofa
-sooty
-sophia
-sow
-sp
-spare
-speech
-spell
-spirits
-spitefully-fond
-spoil
-spoke
-spoken
-sprig
-spright-
-spunk
-squeeze
-stage
-stamped
-standing
-stately
-station
-steal
-steer
-stifle
-stil^d
-stoop
-stream
-strict
-strictly
-stroke
-strongly
-studded
-subject
-substitute
-succeeding
-successful
-suck
-suction
-sud-
-suffers
-suffi-
-summer^s
-supplied
-supplies
-surprised
-suspect
-swain
-swear
-swears
-sweeter
-swell
-tactics
-tasted
-tautology
-tea
-tells
-tempered
-tempt
-tenacious
-tendrils
-tepid
-ter
-terra
-terrible
-tete-a-tete
-thence
-thinly
-third
-thirst
-thirteen
-thomson^s
-thorough
-thoroughly
-threats
-thrills
-thrown
-tk
-tl
-tle
-toast
-toned
-tooth
-tottenham
-towns
-toy
-toys
-trace
-track
-trades
-traveller
-trembling
-tress
-trifle
-trivial
-trod
-trou
-tures
-turk
-turtles
-twentieth
-twenty-
-twining
-ty
-understanding
-une
-unerring
-unfortunately
-unfrequented
-union
-union-street
-unite
-universal
-universally
-unsatiated
-unseen
-untainted
-untutor^d
-untutored
-upwards
-urge
-uses
-usual
-vanquished
-veil
-velvet
-venereal
-vent
-verifies
-vices
-vie
-viewh
-viewkind
-vieww
-virago
-visiting
-vital
-vivid
-vogue
-volunteer
-voluptuary
-vourite
-vous
-wait
-waits
-walks
-wandering
-wane
-wantonness
-wars
-washes
-wasted
-wearing
-weight
-wells-
-wells-street
-wench
-whenever
-whim
-whipped
-whisper^d
-wild
-wind
-window
-winter^s
-with-
-wnsd
-wond
-wondered
-worn
-yard
-yielded
-z
-zenith
--it
--lilting
-a-tete
-abate
-abated
-abatement
-abbing
-ablutions
-abode
-abominably
-abondance
-abounding
-absent
-absolute
-absterged
-absurd
-absurdities
-abundance
-abundantly
-abused
-aca
-acceptable
-access
-accidental
-accommodation
-accompanied
-accompany
-accompanying
-accomplishment
-accordingly
-accosting
-accounted
-accurately
-accus-
-accustom^d
-acquain-
-acquaint
-acquaintances
-acquiescing
-action-
-actors
-actual
-actually
-actuated
-ad
-adage
-adam^s
-added
-additional
-address
-addresses
-adelphi
-adept
-adepts
-adequate
-adhere
-adieu
-adjacent
-administers
-admirable
-admirably
-admires
-adonis
-adorable
-adorn
-ads
-adulterate
-advanced
-advantageous
-adventure
-advocate
-aera
-af-
-affair
-affection
-affections
-affront
-african
-afterwards
-aggravate
-agility
-agitated
-agree
-agree-
-agreeableness
-agreements
-aims
-alarms
-alas
-alias
-alive
-alliance
-allowance
-almoft
-aloud
-alpian
-alternative
-altogether
-am-
-amateur
-ambassador
-ambrosial
-ambush
-amending
-american
-amity
-amorously
-amounted
-amour
-anec-
-anecdotes
-angelic
-anima-
-animation
-ankles
-ann^s
-ann^s-street
-anniversary
-announced
-annuity
-another^s
-answerable
-answers
-antago-
-anthony
-anticipate
-apollo
-apparently
-appas
-appealing
-appear^d
-appearances
-appendage
-applaud
-apple
-apple-tree
-apples
-appli-
-applies
-apply
-appoint
-appointed
-apprehend
-apprenticed
-approaches
-appropriates
-approve
-approved
-april
-april^s
-apt
-aptness
-arbour
-arc^d
-arcanum
-ardent
-ardently
-aretin
-argued
-argument
-arise
-arm^d
-armful
-armory
-armstrong
-around
-arrested
-arrow
-article
-artist
-aside
-asked
-asks
-asleep
-aspir^d
-assaults
-assert
-asserted
-assiduity
-assigned
-assists
-assume
-assuming
-athletic
-atom
-attach-
-attaches
-attain
-attain^d
-attainment
-attendant
-attending
-attends
-attire
-attitude
-attitudes
-attorney^s
-attornies
-attract-
-attracted
-attraction
-attractives
-au
-aunt^s
-authority
-autumn
-avaricious
-aversed
-aversion
-avoids
-awakes
-awful
-awkward
-axiom
-azure
-bachelor
-backside
-backward
-baff-
-bagnigge
-bagnio
-bags
-bait
-balances
-band
-bands
-baneful
-bankers
-banner
-banners
-bar-
-bare
-barefaced
-baronet
-barren
-barrs
-bartholomew
-baser
-basket
-bassia
-bathed
-bathing
-battle
-bawdy
-bb
-beacon
-beaten
-beau-
-beauteous
-beautie^s
-beauty^s
-beaux
-beaver
-becomes
-bed-chamber
-bed-room
-bedecked
-bedews
-bee
-befriended
-beg
-begin
-begs
-beguile
-beguiles
-beha-
-behaving
-beholding
-bejoux
-believes
-bell
-belle
-belt
-benefactors
-benign
-bennett-
-bentick
-bequeathed
-ber
-berner-street
-berry^d
-berwick
-beside
-besieg^d
-besieged
-bespangle
-betray
-betrayed
-betrayer
-betse
-betty
-betwiching
-bewitch
-bewitch-
-bi
-bidet
-bids
-bieuseance
-bilk
-bilked
-billingsgate
-biography
-bird
-birds
-birmingham
-bishopsgate-street
-bit
-bits
-blackguardism
-blacksmith
-blasphemy
-bleed
-blemish
-bles
-bless^d
-blinds
-bloated
-block
-bloods
-blot
-blow
-blowing
-blushing
-boarded
-boarding-school
-boasted
-boatswain
-bobs
-body^s
-boils
-bolder
-boldly
-bolt
-bolton
-bombarded
-bombardment
-bor-
-border^d
-borgia
-borrow
-bosquet
-bouncing
-boundage
-bouquets
-bourhood
-bowr^s
-boys
-bra-
-brace
-braces
-brackets
-brake
-branch
-branching
-brandished
-braves
-breach
-break
-breakfast
-breaks
-breasted
-breath-
-breathe
-breathes
-breeches
-breed
-breeding
-breeze
-brewer
-bri-
-bridge
-bridge-street
-bridges
-brightest
-briskly
-british
-briton^s
-britons
-bro
-brobdignag
-brood
-brothers
-brow
-brushed
-brutality
-bub
-buck
-buckle
-budding
-bulk
-bull-and-
-bum-
-bumper
-bundle
-buried
-burns
-burst
-bush-fighting
-bushes
-busily
-butcher^s
-bye
-cable
-caesar
-calendar
-call^d
-calling
-calmness
-calumny
-calvanism
-cambridge
-can-
-cankerworms
-cantons
-capacious
-capillary
-capital
-capitalisation
-capitulation
-capo
-captivated
-captivating
-carcases
-career
-carefully
-carelessness
-cares
-carlisle-
-carnaby-market
-carnal
-carnation
-carriage
-carried
-carrots
-cart
-casionally
-castalian
-casting
-castle-
-castle-court
-catalogue
-catches
-cate
-cates
-catherine-
-catherine-street
-cations
-cato
-causing
-caution
-cavendish
-ceas^d
-cease
-ceases
-ced
-ceed
-ceives
-celebrates
-celebrity
-celestial
-celibacy
-cell
-censed
-censured
-cent
-centinal
-centrally
-centred
-centrical
-cept
-cer-
-cerning
-certainty
-ceru-
-cha-
-chagrin
-chall
-chamber
-chambers
-chandler
-chandler^s
-chang^d
-changed
-chapel
-chaque
-char
-charac-
-charge
-charitable
-charitably
-charles
-charmant
-charmer^s
-chastest
-chatterer
-cheap
-cheapness
-cheapside
-chear-
-cheek^s
-cheerfulness
-cheesemonger^s
-chelsea
-chemise
-chemistry
-cherries
-chesnut
-chester^s
-chesterfield-street
-chevaux-de-freize
-chide
-chiding
-chiefly
-children
-chin
-china
-chis
-chit
-choak
-choicee
-choiceft
-choose
-chooses
-christen
-christians
-chronicle
-church-yard
-chuses
-ciency
-cipal
-cir-
-circling
-citadel
-citizen^s
-citizens
-clare
-clasp
-clasping
-cleaned
-cleared
-cleopatra
-clergyman
-clerk
-clerks
-cleveland-street
-clime
-clined
-cling
-cloak
-cloathed
-closely
-closing
-clothed
-clouded
-cloyster
-cludes
-clumsily
-clumsy
-co
-coaches
-coarse
-coarseness
-cod
-coeur
-cof-
-coldest
-collected
-color
-coloured-
-comb
-combatant
-combined
-combines
-combing
-combs
-come-at-able
-comedy
-commence
-commenced
-commencing
-commend
-commodity
-commotions
-communicates
-communicating
-companionableness
-companions
-comparison
-compell-
-compellers
-compence
-compensate
-compensates
-competent
-competition
-complains
-complaisance
-compleatly
-completion
-complex
-complexioned
-complexions
-compli-
-compliance
-compliant
-compliments
-comply
-comprised
-compton
-computation
-conceal
-concealed
-conceals
-conceited
-conceives
-concerned
-concerns
-concert
-concluded
-conclusion
-concord
-concupiscence
-condemn
-condescend
-condescends
-condition
-conducted
-conducts
-confequence
-confessed
-confession
-confident
-congenial
-conjecture
-conjoin^d
-connected
-connection
-connections
-connexions
-conquered
-conquers
-conscience
-consecrated
-consented
-consequently
-conservation
-consider-
-considerably
-consideration
-considering
-consigned
-conspicuous
-conspire
-constitute
-constitutes
-constraint
-consults
-consummate
-contact
-contain
-contend
-contents
-contest
-contesting
-continue
-contraband
-contract
-contracted
-contradiction
-contrasts
-contribute
-contributes
-control
-controul
-convenience
-conveniency
-conver-
-conversa-
-conversant
-converse
-conversing
-convey
-conveyed
-conveying
-convin-
-convince
-convolvulus
-convulsive
-cook
-coppered
-copse
-cor
-cordial
-cording
-corn-
-cornuted
-corporeal
-corpulent
-correcting
-correction
-corrections
-corresponds
-corrupted
-corruption
-cosmetics
-coule
-couns
-counsellors
-count
-counte-
-counterfeit
-counterfits
-countrymen^s
-counts
-coup
-couplets
-cour-
-courage
-courageous
-courteous
-courts
-cousin
-coverings
-covers
-covetous
-cow
-coward
-coxcomb
-coyley
-crave
-craves
-craving
-create
-created
-creature
-credentials
-credible
-crest
-cretan
-cretion
-crew
-crooked
-crop-street
-cropt
-cross
-cross^d
-crotchet
-crown-
-crown^d
-crowns
-cry^d
-crying
-ctor
-cuckow
-culls
-cumstance
-cunning
-cupid^s
-cups
-cures
-curling
-curricle
-curs^d
-cursitor-street
-curst
-curve
-cus-
-customed
-customer
-customs
-cuting
-cuts
-cutting
-cy-
-cytherean
-da
-daily
-dairy
-dames
-damon
-damped
-damsel
-danced
-dancer
-dandled
-dando
-darkest
-darkly
-darting
-date
-daub
-daugh-
-daughter^s
-dav
-dazzled
-dealed
-dealt
-debauchery
-debts
-decay
-decays
-deceased
-deceit
-deceived
-declare
-declined
-deed
-deemed
-deface
-defeat
-defect
-defi-
-defiance
-deficiencies
-deficient
-defies
-defile
-deform
-deformed
-defray
-degrade
-degrees
-deity
-deli-
-delici-
-delightfully
-delineating
-delirium
-dells
-delusion
-delusive
-demesnes
-demi
-demigod
-demise
-demonstrable
-demonstrates
-deners
-denied
-denomination
-denotes
-densest
-dented
-dentist
-dentrifice
-deny
-deny^d
-depend
-dependence
-depicted
-deplored
-deportment
-deprive
-depth
-derbyshire
-dercription
-derived
-derives
-dernier
-derstand
-descending
-describe
-described
-description
-descriptive
-desert
-deserving
-deshabill
-desi-
-design^d
-designed
-designing
-desir^d
-desireable
-desired
-desiring
-desription
-destroyed
-destroyer
-destroys
-detection
-detestable
-detriment
-deviates
-deviation
-devil
-devoid
-devonshire
-devoted
-devotee
-dew
-dex-
-dexterous
-df
-dia-
-dia^s
-dialect
-diately
-didappoint-
-die-away
-dieux
-differ
-diffused
-dimensions
-diminished
-diminitive
-diminution
-dimmed
-dimpled
-ding
-dinner
-diomede
-dipping
-dire
-direc-
-dirty
-disappointment
-disarm
-discarded
-discern
-discloses
-discover
-discovers
-discretion
-discriminated
-discriminately
-disdain
-disguise
-disguising
-disinterested
-disinterestedness
-dismissed
-dismounting
-dispenses
-display^d
-displeas^d
-displeased
-dispofition
-dispolition
-disposal
-disposed
-disregard
-dissemble
-dissensions
-dissimulation
-dissolution
-dissolves
-distance
-distended
-distinction
-distinctions
-distinguish
-distinguished
-distinguishes
-distraction
-distributed
-distribution
-disturb
-ditious
-dive
-diversion
-diversions
-divest
-divested
-divinely
-dling
-doating
-doatingly
-dock
-doll
-dolt
-donnerois
-doomed
-doors
-dormant
-dotes
-doubled
-doubly
-doubtless
-doux
-dove
-downing
-downy
-dr
-drags
-drapery
-draughts
-dread
-dreadful
-dreg
-dresser
-dresser^s
-dressing
-driven
-drone
-droop
-drooping
-dropped
-dropt
-drown
-drowns
-drudges
-drury-lane
-duces
-duck
-duct
-duet
-duets
-duke-
-dulest
-dumb
-dye-away
-eagerness
-eagle-
-earn
-earnest
-earns
-ears
-east-india
-eastern
-ebon
-ebook
-economist
-economy
-ectacy
-eden
-edge
-edward-street
-eery
-efface
-efficacious
-efficacy
-efforts
-elaborate
-elder
-elderly
-elegancy
-elephants
-elevated
-elevation
-eleven
-eliza
-elli
-eloise
-eloped
-elopes
-eloquently
-eluding
-elysian
-em
-em-
-embarrassed
-embarrassments
-emblem
-embrac^d
-emergency
-emmey
-emoluments
-empire
-employ
-employ^d
-employed
-employments
-emulous
-ena-
-enables
-enamoured
-enchant
-enchanteurs
-encircle
-encircled
-enclose
-enclosed
-encloses
-encourag-
-encouragement
-encumbered
-endearing
-endeavour
-endeavouring
-ended
-endless
-endures
-enflam^d
-enforcing
-engagements
-engine
-englishmen
-engrafted
-engulph
-enjoyer
-enlarged
-enlightens
-enlisted
-enlists
-enquire
-enraged
-enriched
-ensemble
-ensure
-entertain
-enthusiastic
-enticement
-entitle
-entwine
-entwines
-envies
-envious
-epicure
-epicures
-epicurism
-epistolary
-epithets
-equality
-equalled
-equipped
-eradicate
-erases
-erful
-errant
-erspent
-ertop
-esprits
-essence
-established
-esteemed
-estranges
-et
-etact
-events
-evil
-exalted
-examin-
-exceed-
-exceeded
-exceedingly
-exceeds
-excel-
-excell^d
-excelled
-excellence
-excellently
-excells
-excepted
-excessive
-excite
-excites
-exciting
-exclaims
-exclamation
-excursion
-excuse
-execution
-exercise
-exert
-exerted
-exertion
-exhibition
-exhibits
-exhilarates
-exhilirated
-existence
-exorbitant
-expanded
-expe-
-expeas
-expecting
-expel
-expence
-experiences
-experiencing
-experimentally
-explicit
-expos^d
-express
-expressions
-exta-
-extending
-extends
-extensive
-extent
-extra-
-exuberance
-ey^d
-eyebrows
-fac^d
-facilitate
-fact
-factor
-fading
-failing
-fairness
-fait
-faithful
-fal-
-fallen
-falling
-fame
-familiar
-fancies
-fann
-fanned
-fans
-fantastic
-farmer
-fascinating
-fathom
-fathomed
-fattest
-faultering
-fav
-favorites
-favourable
-favoured
-favourites
-fchool
-fea-
-fearless
-fears
-feasts
-fed
-feedeth
-feeds
-felicity
-fell
-fellows
-females
-fence
-fer^d
-fertile
-fervor
-fervour
-fetter
-fetter^d
-ficiently
-fiddle-stick
-fied
-fielding
-fiend
-fiercest
-fifteenth
-figured
-fill^d
-filly
-fin-
-finances
-find-
-finer
-fings
-finical
-finishes
-finishing
-fired
-firma
-firmly
-fixed
-fixing
-flabby
-flamed
-flash-man
-flat
-flats
-flatter
-flattery
-flattish
-fleece
-fleet-street
-fleeting
-flesh
-fleurs
-flexibility
-flies
-flighty
-floats
-flogged
-floodgates
-floors
-fluctuating
-fludger-street
-fluence
-flush^d
-flutter
-fluttered
-fluttering
-fo
-fo-
-foecundity
-foiled
-folding
-following
-follows
-folly
-fondly
-fool-stones
-fools
-footing
-foplings
-forbidding
-forc^d
-forehead
-foreigner
-foretell
-forfeit
-formal
-formely
-formidable
-forms
-forsake
-forsaken
-forsook
-fortable
-forte
-fortifications
-fortified
-fortifyed
-fortitude
-fortress
-fortune^s
-forwarded
-foul
-founded
-founder^d
-founds
-fount
-fountaine
-fours
-fourth
-fra
-frailty
-framing
-france
-frankly
-freaks
-free-
-free-born
-free-hearted
-frenchman
-frequency
-frequented
-frequenting
-fresher
-fretful
-frey
-fri-
-fringes
-frisky
-frizeur
-frocks
-frolic
-frolick
-frontier
-frothy
-froward
-frown
-frowns
-fruit
-fruitful
-fryars
-fugitive
-fullness
-fur
-furnish^d
-fuses
-fusing
-fweets
-gaging
-gaiety
-gained
-gainful
-gale
-gallantry
-gamesters
-gangway
-gant
-gaping
-gar-
-garb
-garity
-garraway^s
-gasping
-gaudy
-gaulky
-gaws
-gazes
-generality
-generously
-genius
-gentleman^s
-gentlemanlike
-gentleness
-germany
-gers
-ges
-gew-
-ghan
-ghastly
-giant
-gild
-gin
-gination
-girl^s
-gl
-glads
-glanville-
-glide
-glittering
-globes
-gloomy
-glory
-glut-
-glutton
-goal
-goldfinches
-good-
-good-humour
-goodge
-goods
-goose-berry
-gospel
-gown
-grahamatic
-grass
-grateful
-gratified
-gratify^d
-gratis
-gratitude
-gray
-gray^s-inn-lane
-gree
-greek
-green-street
-greenest
-gregory
-grief
-grisly
-grocer^s
-gronmos
-gross
-grotto
-growing
-growth
-grudge
-guard
-gui-
-guided
-guido^s
-guiling
-guilty
-guittar
-ha
-habits
-hack^d
-hackney
-hackney-coach-
-hackneyed
-hair-
-hair-dresser
-hair-dressers
-hair^d
-halt
-hampshire
-hance
-hand-
-hand^s
-handled
-handling
-handmaid
-handy
-hang
-hanger
-hanover-square
-hanover-street
-haply
-happen
-happen^d
-haps
-har-
-hare-hound
-harm
-harvest
-hast
-hasten
-hastens
-hasty
-hat
-hated
-haughtiness
-haunches
-hav-
-hay
-haymarket
-hazard
-he^d
-he^ll
-head-dress
-headed
-heap
-heart^s
-hearty
-heav^d
-heaven^s
-heavenly
-heaves
-heavy
-hebe
-heighten
-heightened
-heighth
-hell
-hence
-her^s
-heritage
-hermit^s
-heroic
-hidden
-higher
-himslef
-hind-court
-hire
-hither
-ho
-holborn
-holding
-holly
-honest
-honey
-honourable
-honours
-hoping
-horrid
-horseman
-horses
-hot-bed
-hotel
-housekeeper
-humble
-hung
-hunger
-hunter
-hurt
-husband^s
-husbands
-hymen
-hyphenation
-i^m
-i^ve
-ideas
-ideotism
-ignorant
-ihe
-iic
-ild
-ill
-illness
-ills
-im-
-ima-
-imme-
-immediate
-immortal
-impaired
-impart
-imperious
-impertinence
-impetuosity
-implicit
-impregnable
-imprinted
-improper
-improvement
-impudence
-impulse
-impurities
-ina-
-inactive
-incapable
-incentive
-inch
-inchanting
-inclin-
-inclin^d
-incline
-incognita
-income
-inconsistent
-inconstancy
-inconstant
-increasing
-indentions
-independence
-indications
-indies
-indiscrets
-indispensable
-indisputably
-induced
-inducements
-indulge
-indulgent
-ineffable
-inexpressible
-inexpressibly
-infamous
-infantry
-infection
-infidel
-infinite
-infinitely
-ingenious
-ingenuity
-ingly
-ingratiated
-ings
-inimitably
-injury
-insatiable
-insatiably
-insensible
-inseparable
-inserted
-insinuations
-inslead
-inspired
-instant
-instantaneous
-instill
-instilled
-instinct
-instinctive
-instinctively
-instruction
-instrument
-insupportable
-intellectual
-intended
-intends
-interchange
-interchanges
-intercourse
-intermediate
-intermix
-interrupted
-interruption
-interwoven
-intrigue
-intrigues
-introduction
-introductory
-inundations
-invades
-ion
-ioned
-irregularities
-irresistable
-irresistibly
-irritated
-island
-israelite
-israelites
-iss
-issueth
-isthmus
-ited
-ith
-ix
-jades
-jamaica
-javois
-jea-
-jealousy
-jehu
-jesting
-jew
-jewess
-jo
-jockey
-john
-john-
-join-
-join^d
-joli
-jolts
-journey
-jovial
-joyment
-judgment
-juncture
-june^s
-just-
-justify
-juvenile
-ked
-keep-
-keeper^s
-key
-key-
-kicked
-kill
-kindled
-kindles
-kingdom
-kises
-kissing
-kite
-knees
-knew
-knocking
-knots
-l-d-tt
-la
-laceration
-laid
-lalirus
-lamb
-lambeth
-lambeth-road
-lambs
-lament
-languid
-languor
-lapel
-latter
-laugh^d
-laughing
-laughter-loving
-lave
-laves
-lavinia
-lawr
-laws
-lawyers
-layout
-ld^s
-lea
-leaden
-leading
-lean
-lean^d
-lear
-learing
-learn
-learning
-leathern
-lecherous
-leciester
-lee
-len
-lend
-lends
-lessens
-lesser
-lesson
-letch
-letche
-letchery
-lets
-letter
-levitical
-levrette
-ley
-lford
-li-
-liable
-libations
-liberality
-liberties
-libertinism
-licenc^d
-licious
-lieve
-life^s
-lift
-lighted
-lightest
-lightness
-lightning
-lik^d
-lilies
-lilly
-lily^s
-limits
-lined
-liness
-lingual
-lining
-lion
-lip-
-lipt
-lish
-lisle-
-lisp
-listed
-listen
-lit-
-litchfield-street
-literary
-literature
-little-court
-livelong
-lk
-lkins
-lls
-lme
-lo
-lock
-lock^d
-lodg^d
-lodged
-lodges
-lofty
-loins
-londres
-long-expected
-longed
-longings
-longs
-loosely
-loosest
-lot
-lots
-lottery-office-keeper
-loud
-lounge
-lours
-lous
-love-sparkling
-love-swimming
-loveliest
-loveliness
-low-lands
-lowly
-lowness
-lsw
-ludgate-hill
-lukewarm
-lumi-
-luminaries
-lurking
-lustfully
-luxuriance
-luxuriancy
-lying
-lyon
-m^s
-mac
-machine
-machines
-madamoiselle
-madeira
-magazine
-magical
-mahometan
-maid
-main
-majesty^s
-majority
-mak
-mamma
-man-
-mana-
-managed
-mankind
-mantle
-mantua-making
-mar-
-marched
-mares
-margate-street
-marines
-markable
-market-lane
-marks
-marrow
-marry
-mars
-martin^s
-marylebone
-masculine
-masterly
-matched
-matchless
-matrimonial
-matter
-matters
-mature
-may-pole
-maze
-meand
-meandring
-meaning
-meard-street
-measures
-meat
-medal
-medicean
-medicis
-medium
-meer
-meet-
-melody
-melted
-mem-
-member^s
-membered
-memmber
-memoirs
-menatal
-mens
-mental
-mentioned
-mentioning
-ments
-merciless
-meridian
-meselina
-mess
-messalina
-meteors
-methinks
-mid-
-middlesex-hospital
-mids
-midway
-mien
-mifs
-milder
-miles
-milk-carrier
-milking
-mill
-millener
-milliner
-minerva
-mingled
-mingling
-minx
-mirers
-mis
-mis-
-misconduct
-misnumbering
-misses
-mistletoe
-mists
-mo
-mo-
-moderation
-modiously
-mois
-moist
-molded
-molds
-molesw
-molt
-moments
-momomentary
-momus
-mon
-monarch^s
-monds
-monk
-monkey
-monstrously
-month
-monu-
-monument
-moon
-moor^s-place
-morato^s
-moreover
-morpheus
-morsel
-mortification
-mortimer
-mortimer-street
-moss
-moulds
-mountainous
-mountains
-mounted
-moved
-movement
-murcury
-murmurring
-mus
-musical
-musick^s
-mutuality
-mysterious
-mystery
-mystic
-naivet
-namely
-nance
-naries
-narrow
-nations
-naturalibus
-navel-wort
-navy
-nby
-nc
-nearer
-nearly
-neas
-neatness
-neces-
-necessaries
-necessi-
-necks
-nectar-distilling
-nectarious
-ned
-needy
-neglect
-neglecting
-negligence
-negro
-neigh-
-nephew
-neptune
-ner
-neral
-nereids
-ness
-nest
-net
-netherlands
-new-born
-newest
-newman
-newman-
-ney
-nicely
-niceties
-niece^s
-nied
-nigher
-nile
-nimble
-nine-
-nipples
-nist
-nly
-nn
-no-
-noctunal
-nonsense
-nor-
-norfolk
-nos
-nos-
-notches
-noted
-notwithstand-
-nought
-noun
-np
-nson
-nuine
-numbering
-numerous
-nut
-nutmegs
-oaths
-obedience
-obligation
-oblique
-obscure
-observation
-observer
-obtain
-obtained
-oc-
-occasional
-occurrence
-odd
-oddity
-odoriferous
-odours
-of-
-offences
-offended
-offends
-offer^d
-offering
-offers
-offspring
-ofhis
-oft
-oftener
-ogl
-ogle
-om
-omits
-one-pound
-ooks
-opera
-operations
-opponent
-opposite
-orb^d
-order
-ordinary
-orifice
-orna-
-ornamental
-orthodox
-ortn
-ostrich
-ounce
-out-guard
-over-raptur^d
-overboard
-overflow
-overtures
-overwhelmed
-ovid
-owen
-owing
-owns
-ox-
-oxendon-street
-oxford-market
-oxfordshire
-painful
-painters
-painting
-paired
-pal-
-palates
-pale
-palpitating
-pampered
-pan-
-pant-
-panted
-pantomime
-paper
-parabola
-parading
-paragon
-parcel
-parent
-parental
-parish
-parley
-parson
-partakes
-parterre
-participating
-particulars
-partner^s
-pass^d
-passed
-passionate
-passive
-pastime
-pasture
-patch
-patrice
-patroness
-paul^s
-pave
-pawnbroker
-pawnbrokers
-pay-mistresses
-peace
-pear
-pearly
-peas
-pecting
-peep
-peepers
-peevish
-peice
-pen-woman
-pence
-pendulum
-penetrated
-penetrating
-penetration
-penniless
-people
-people^s
-per^d
-perambu-
-perceiv^d
-perceives
-perceiving
-perfec-
-performed
-performer
-perienced
-perjury
-perpendicular
-perpetual
+red green blue
+ansi ansicpg cocoartf
+ansicpg cocoartf cocoatextscaling
+cf expnd expndtw
+cocoaplatform fonttbl f
+cocoartf cocoatextscaling cocoaplatform
+cocoatextscaling cocoaplatform fonttbl
+colortbl red green
+courier colortbl red
+deftab pard pardeftab
+expnd expndtw kerning
+f fmodern fcharset
+f fs cf
+fcharset courier colortbl
+fmodern fcharset courier
+fonttbl f fmodern
+fs cf expnd
+green blue expandedcolortbl
+margl margr vieww
+margr vieww viewh
+pard pardeftab partightenfactor
+pardeftab partightenfactor f
+partightenfactor f fs
+rtf ansi ansicpg
+viewh viewkind deftab
+viewkind deftab pard
+vieww viewh viewkind
+blue expandedcolortbl margl
+expandedcolortbl margl margr
+she is a
+she is now
+expndtw kerning miss
+she is very
+is of a
+she is of
+a pair of
+is tall and
+of the most
+she has a
+is a very
+she does not
+as well as
+half a guinea
+as she is
+she is tall
+her price is
+she has been
+she is not
+this lady is
+is a fine
+leg and foot
+one of the
+dark hair and
+of love and
+to be met
+two pounds two
+and as she
+be met with
+fond of the
+of the sport
+one pound one
+this is a
+whose name she
+a very good
+eyes and hair
+hair and eyes
+in all the
+in the arms
+is of the
+keeps the house
+not to be
+on the town
+she is about
+she is rather
+and a very
+dark eyes and
+for some time
+her to be
+in bed she
+in the art
+is to be
+said to be
+the first floor
+this lady has
+and is a
+for she is
+has no objection
+is said to
+no objection to
+of the same
+of the town
+the arms of
+the heart of
+the middle size
+to be a
+very fond of
+with all the
+a number of
+and a pair
+and she is
+as she has
+cannot pretend to
+good teeth and
+has only been
+her breasts are
+her face is
+in keeping by
+in the first
+is fond of
+is now in
+is very fond
+no upper newman-street
+of pleasure and
+of which she
+set of teeth
+she has no
+she has not
+she is so
+she is the
+temper and disposition
+that she has
+the fire of
+the use of
+we are told
+we cannot pretend
+without the least
+years of age
+a good song
+a man of
+a short time
+a very agreeable
+a very genteel
+a whole night
+a woman of
+and has only
+and is very
+and it is
+are good and
+as they are
+by no means
+child of love
+down her back
+far from being
+for a whole
+hair and a
+has a very
+has been a
+has not been
+her eighteenth year
+her eyes are
+her teeth are
+her temper and
+in her bosom
+in his pocket
+in the house
+in the morning
+is about twenty
+is at present
+is not the
+keeping by a
+l st r
+lives in the
+made with a
+met with at
+most of her
+of her charms
+pair of pretty
+part of her
+pretend to say
+she at present
+she is all
+she keeps the
+she will not
+the art of
+the house and
+the most enchanting
+though she is
+with dark hair
+a dark complexion
+a fine tall
+a friend to
+a native of
+a whole night^s
+all her charms
+all the heart
+and does not
+and has a
+and if you
+and makes her
+and she has
+and though she
+and when she
+arrived at the
+as long as
+as we have
+as you please
+at that time
+at the approach
+bed she is
+birth to this
+daughter of a
+expndtw kerning mrs
+eyes and a
+fair complexion and
+fine black eyes
+fine dark hair
+glow of youth
+good and her
+has good teeth
+has lately been
+he left her
+her features are
+her hair is
+her in the
+in all her
+in her arms
+in the amorous
+in the country
+is all the
+is by no
+is in general
+is not to
+is now only
+is one pound
+is up to
+it is a
+it is so
+j ns n
+light hair and
+many of the
+miss br wn
+miss j ns
+mother of all
+nor does she
+not the least
+now in her
+of a dark
+of a good
+of her own
+of love in
+of love she
+of our readers
+of the middle
+of the theatres
+our readers with
+part of the
+particularly partial to
+pleasure in the
+present our readers
+price is one
+ringlets down her
+she cannot be
+she has lately
+she has the
+she is an
+she is as
+she is but
+she is by
+she is in
+she is to
+she is well
+she loves to
+she possesses a
+some of the
+that does not
+that she is
+the approach of
+the coming pleasure
+the daughter of
+the glow of
+the liberty of
+the mother of
+the power of
+the sport and
+the sport is
+the town and
+the transports of
+there is no
+to be found
+will drink a
+will not be
+with a good
+a chearful glass
+a fair complexion
+a fine girl
+a fine plump
+a gentleman who
+a good companion
+a good size
+a great deal
+a guinea and
+a leg and
+a middle size
+a profusion of
+a single guinea
+a very desirable
+a volunteer in
+about six months
+above the common
+all her actions
+all the night
+an early period
+and all the
+and for one
+and melt the
+and of the
+and soft as
+are small and
+arms she languishingly
+as much as
+as pretty a
+at an early
+at home at
+at once in
+at present in
+at present she
+at the dye
+at the tempting
+be able to
+be she is
+been able to
+been in life
+been lavishly bountiful
+being fond of
+blue eyes and
+bouquet in her
+br wn no
+brown hair which
+but a short
+can wish or
+captain whose name
+charm the heart
+claim to the
+close in the
+companion she has
+does not seem
+dye away moment
+dying looks short
+en bon point
+enhance the coming
+every part of
+eye of an
+eyes are of
+eyes of the
+fair skin and
+fall in the
+fine blue eyes
+fire from bacchus
+fire of youth
+firm and elastic
+flood of delight
+for the performance
+for the sport
+for two pounds
+found in the
+from her eyes
+from motives of
+girl with a
+good song and
+great deal of
+guineas in his
+hand and arm
+has a fair
+has been lavishly
+has not the
+heart of man
+her charms and
+her complexion is
+her disposition and
+her dress is
+her eyes and
+her favourite man
+her hand and
+her miss miss
+her name from
+her person and
+her she is
+her temper is
+him home with
+in each eye
+in her demands
+in her eighteenth
+in her eye
+in keeping with
+in short she
+in such a
+in the cyprian
+in the field
+in the same
+in the wars
+in the whole
+is a native
+is generally to
+is mistress of
+is now about
+is perfectly mistress
+is so very
+is so well
+is the daughter
+it is in
+it may be
+it she is
+j n s
+k lp n
+languishingly lies with
+lays claim to
+lies with dying
+looks short breath
+man of pleasure
+met with in
+miss b nd
+miss betsy h
+miss d v
+mistress in the
+mrs d d
+name she at
+name she has
+nature has been
+no castle street
+no york-street queen-ann-street
+nor know satiety
+not more than
+not seem to
+ns n no
+o er the
+objection to two
+of a fine
+of a middle
+of all her
+of all the
+of beauty has
+of de- light
+of her admirers
+of the cyprian
+of the first
+of the law
+of the sex
+of the world
+of this lady
+of venus she
+on the first
+only been in
+only six months
+pounds two shillings
+queen ann street
+regular set of
+she did not
+she is always
+she is frequently
+she is perfectly
+she languishingly lies
+she seems to
+she takes her
+short breath and
+six months ago
+song and is
+take him home
+tall and genteel
+teeth and a
+that a girl
+that she might
+that swim in
+the age of
+the amorous encounter
+the arms she
+the attention of
+the beauty of
+the country but
+the dye away
+the end of
+the field of
+the height of
+the liquid eye
+the more desirable
+the mysteries of
+the night and
+the number of
+the price of
+the sons of
+the town or
+the wars of
+the whole of
+this charming girl
+this daughter of
+thro the frame
+to fall in
+to paint the
+to seek support
+to take a
+to take him
+to the last
+to this charming
+town or in
+twine in the
+under the care
+up to every
+very agreeable and
+very agreeable companion
+very good friend
+was obliged to
+we are informed
+we have been
+well and is
+well made with
+well worth the
+where she is
+which are placed
+which by the
+which she has
+which she is
+which she will
+which time she
+wishes in the
+with a beautiful
+with a fine
+with a temper
+with dying looks
+with fine black
+with in the
+with the greatest
+with the most
+you a whole
+you must not
+a beautiful face
+a casket of
+a few years
+a fine fair
+a fine skin
+a first rate
+a flood of
+a girl of
+a girl who
+a good complexion
+a kind of
+a lively and
+a loose to
+a most enormous
+a most pleasing
+a night with
+a person in
+a piece of
+a pretty little
+a set of
+a tall genteel
+a very chearful
+a very fine
+a very handsome
+a view of
+a whole volley
+able to be
+above and below
+agreeable and her
+agreeable companion and
+all the frame
+all the graces
+all the senses
+all this she
+amorous encounter and
+an epitome of
+an opportunity of
+an opportunity to
+and a pretty
+and all her
+and always expects
+and as pretty
+and as the
+and as we
+and at the
+and dark brown
+and every part
+and fair of
+and foot and
+and foot as
+and gives a
+and good teeth
+and hair are
+and has no
+and her limbs
+and her teeth
+and in a
+and in the
+and is in
+and is not
+and is particularly
+and one who
+and seem to
+and so fond
+and such a
+and the goodness
+and the most
+and there is
+and well made
+and with a
+and you may
+ann street east
+any gentleman may
+any of our
+appear to be
+are of the
+are still more
+are told is
+as most of
+as she had
+as she will
+as they do
+as to be
+as turtles down
+at mrs kelly^s
+at this period
+attached to the
+attention of the
+attention that is
+b lt n
+b rn no
+be a good
+beat time to
+beauty of her
+bed with a
+being a man
+black eyes and
+blended with the
+bounds of decency
+but by the
+but for a
+but if a
+but she will
+by a young
+c sd l
+c tt n
+cannot be resisted
+cannot fail of
+ch rds n
+character of a
+charms of a
+com- pany and
+contrasted by a
+d f ld
+dances well and
+daughter of love
+daughters of pleasure
+delight and love
+does not possess
+down a whole
+drink a chearful
+dull pause of
+effects of the
+eighteenth year and
+elegant form and
+eyes and dark
+fair complexion with
+fair of a
+fair this lady
+fairest of the
+field of venus
+find the way
+fine dark eyes
+fine fair complexion
+fine hazel eyes
+fine skin and
+fire of love
+first floor her
+five pounds five
+flushed with all
+folds of love
+for a night^s
+for her person
+for one guinea
+for she never
+for the use
+for two guineas
+four months she
+frail daughters of
+fraught with every
+frequently to be
+friend whose name
+from a gentleman
+from being mercenary
+give you a
+good hu- mour
+good she is
+good size and
+goodness of her
+grand mart of
+guinea is the
+guineas miss miss
+h ds n
+h ll nd
+h rd y
+h rv y
+had not her
+hair black eyes
+hair blue eyes
+hand of nature
+harris^s list of
+has a good
+has a most
+has been in
+has made a
+has not yet
+has taken the
+have been able
+have lost the
+he must be
+he will meet
+her a desirable
+her a guinea
+her a very
+her actions she
+her age is
+her and being
+her as a
+her at home
+her charms have
+her charms in
+her com- pany
+her disposition is
+her eyes a
+her eyes seem
+her figure is
+her friends in
+her heaving breasts
+her home and
+her late keeper
+her leg and
+her legs and
+her love of
+her naked beauties
+her own bottom
+her parents and
+her particular friend
+her person is
+her sixteenth year
+her the more
+her to seek
+her to the
+her with a
+highest pitch and
+hillocks nature ever
+home with her
+hope none of
+house and is
+hu- mour and
+hue of the
+if she does
+in a public
+in a very
+in her eyes
+in her person
+in nature^s wanton
+in public life
+in spite of
+in that way
+in the army
+in the centre
+in the evening
+in the green
+in the list
+in the parlour
+in this grand
+in which the
+in your arms
+into a flame
+is a great
+is ever ready
+is frequently to
+is her price
+is in the
+is not a
+is not yet
+is particularly partial
+is possessed of
+is rather short
+is short of
+is so short
+is the least
+is the only
+is two pounds
+is very much
+is very tall
+it does not
+it is not
+it is the
+it must be
+joys of love
+just as she
+keeping with a
+kerning miss l
+knowledge of the
+l c s
+l ns y
+l w s
+lady is about
+lady lives in
+least reason to
+left side of
+legs and feet
+less strange than
+light brown hair
+light hair blue
+list of covent-garden
+love but we
+love for love
+m nt n
+makes her the
+man can wish
+man of the
+many of her
+may be had
+meet with her
+might perhaps have
+miss b lt
+miss bl ke
+miss ch ld
+miss charlotte c
+miss cl nt
+miss h ll
+miss h rd
+miss harriet j
+miss k lp
+miss l c
+miss l ns
+miss miss betsy
+months on the
+more than six
+much sought after
+n miss k
+nature began to
+nature^s wanton folds
+needs not the
+never fails to
+night with her
+no lisle-street leicester-fields
+no means mercenary
+no queen ann
+no south moulton-street
+none of our
+not a little
+not be there
+not less strange
+not less than
+not pretend to
+not she is
+not the smallest
+now arrived at
+now only nineteen
+o er her
+of a man
+of all saints
+of all who
+of amo- rous
+of covent-garden ladies
+of delight and
+of delight with
+of every one
+of five guineas
+of her male
+of her person
+of her sex
+of her temper
+of joy that
+of knowing her
+of man can
+of one of
+of stature and
+of the age
+of the best
+of the brunette
+of the finest
+of the largest
+of the last
+of the the
+of unsatiated love
+of youth and
+oh for a
+on account of
+on the left
+once in the
+one guinea will
+one who is
+or at least
+or eye admire
+pair of tempting
+particularly attached to
+pause of joy
+pay her a
+peculiar to themselves
+piece of gold
+place she is
+pleasure without the
+possessed of every
+pound one but
+pounds five shillings
+present in keeping
+present she is
+price is from
+public hops where
+r ch rds
+rather above the
+rather below mediocrity
+rb t no
+readers with a
+ready for the
+ready to receive
+remarkable for her
+rites of venus
+rose blended with
+s tt n
+seems to be
+sent her to
+she contrives to
+she dances well
+she has good
+she has had
+she has however
+she has now
+she has taken
+she is at
+she is fond
+she is indeed
+she is neither
+she is nevertheless
+she is still
+she lay and
+she looks well
+she made a
+she may be
+she might be
+she never wishes
+she trades the
+she was at
+she was debauched
+she was obliged
+she will with
+shift for herself
+short she is
+should not be
+sings a good
+six months and
+size with dark
+so far from
+so great a
+soft as turtles
+some time but
+sported her figure
+strange it is
+strange than true
+street oxford road
+street rathbone place
+such a loose
+such then her
+t rb t
+taken the liberty
+tall and genteelly
+tall and lusty
+tall of stature
+teeth and is
+than that of
+that a woman
+that can enhance
+that can possibly
+that cannot be
+that for the
+that it is
+that she never
+that she would
+that they are
+that we cannot
+the assistance of
+the attention that
+the blind boy
+the bloom of
+the brandy bottle
+the burning kiss
+the care and
+the cause of
+the character of
+the charms of
+the common run
+the cyprian games
+the desires of
+the dull pause
+the effects of
+the eyes of
+the first visit
+the frail daughters
+the goodness of
+the green boxes
+the grove beneath
+the hand of
+the happiness of
+the highest pitch
+the honour of
+the hue of
+the least reason
+the left side
+the list of
+the most lively
+the name of
+the name she
+the necessity of
+the performance of
+the pleasure without
+the rites of
+the small pox
+the sun shines
+the tender friction
+the theatres and
+the time of
+the town who
+the tree of
+the veins and
+the whole night
+there is not
+they are sure
+they do not
+they have a
+this child of
+this grand mart
+this is the
+this lady a
+this lady lives
+this lady that
+this lady was
+this lady who
+this lovely girl
+this young charmer
+those who are
+three or four
+to all the
+to be able
+to be lusty
+to be seen
+to be stiled
+to be the
+to be very
+to give delight
+to half a
+to her as
+to her dear
+to meet with
+to our knowledge
+to our readers
+to partake of
+to receive the
+to renew the
+to seek for
+to shift for
+to the centre
+to the heart
+to the highest
+to the sons
+to the sport
+to those who
+to visit her
+too fond of
+trades the independant
+transports of the
+tree of life
+two guineas the
+two or three
+two years since
+up to the
+venture to affirm
+very careful of
+very chearful companion
+w bst r
+warmth of the
+was spent and
+way of life
+we do not
+we think she
+we will not
+well acquainted with
+well as her
+well as most
+well skilled in
+where she was
+which cannot be
+which is the
+which place she
+which waves in
+who have the
+who is a
+who is now
+whole night in
+whole volley of
+will give you
+will make a
+will make her
+will not refuse
+wish or eye
+with a flood
+with a large
+with a most
+with a profusion
+with a young
+with all its
+with her and
+with her to
+with so much
+with the bucks
+with the utmost
+with whom she
+would wish to
+year and has
+youth and beauty
+youth and the
+-it is now
+-lilting o er
+a beauti- ful
+a beautiful black
+a bent of
+a black be-
+a blaze of
+a breathing animated
+a brilliant tell-tale
+a buxom lively
+a cer- tain
+a child by
+a comfortable cup
+a crotchet no
+a crown to
+a dainty leg
+a de- licious
+a degree of
+a deserving peice
+a desirable companion
+a desirable well
+a desirable woman
+a desireable piece
+a disagreeable circumstance
+a dreg of
+a face that
+a face well
+a fair skin
+a fav rite
+a favour to
+a favourite hop
+a favourite piece
+a few dells
+a fine lively
+a fine open
+a fine piece
+a flame that
+a fourth grace
+a french as
+a fresh attack
+a fresher sweeter
+a gaudy prospect
+a gentle- man
+a girl though
+a glass with
+a good deal
+a good education
+a good set
+a good trade
+a gown and
+a graceful manner
+a graceful ringlet
+a grocer^s shop
+a grot black
+a guido^s touch
+a guinea is
+a guinea miss
+a guinea mrs
+a guinea richer
+a guinea to
+a hand soft
+a handsome mouth
+a heavy pace
+a hood a
+a house and
+a jetty black
+a keen appetite
+a keeper a
+a lady of
+a lilly white
+a little annuity
+a little fire
+a little more
+a look fo
+a loose that
+a loss to
+a lovely brown
+a lovely fair
+a loving bed-fellow
+a low stature
+a luscious treat
+a lustre peculiar
+a man is
+a man rather
+a man who
+a man^s stomach
+a mere silly
+a middling size
+a mind rarely
+a most agreeable
+a most beautiful
+a most delicious
+a mr h
+a mr l-d-tt
+a much larger
+a natural key
+a neat shoe
+a neck white
+a new heat
+a new pink
+a night^s entertainment
+a night^s lodging
+a noble elasticity
+a part which
+a peas cod
+a pity it
+a pleasing height
+a practical knowledge
+a pretty face
+a proof of
+a public way
+a quintescence of
+a re- compence
+a regular set
+a rose when
+a rose-bud blows
+a sacrifice to
+a sadler^s charles
+a sea captain
+a second time
+a side long
+a single skirmish
+a six months
+a skin that
+a small brake
+a spirited spitefully-fond
+a sportswoman in
+a springinness that
+a stranger to
+a striking figure
+a strong propen-
+a sudden loose
+a sweeter temper
+a syllable con-
+a ta- vern
+a temper and
+a temper remark-
+a titled dame
+a tolerable good
+a torrent of
+a trading nymph
+a twelve month
+a variety of
+a very convenient
+a very early
+a very engaging
+a very pleasing
+a very pretty
+a very toler-
+a white silk
+a wide mouth
+a winter^s companion
+a woman in
+a young gentleman
+a young man
+abandoned her to
+ability in the
+ability she could
+able able to
+able complexion and
+able priest that
+able rapture at
+able to call
+able to say
+able to suit
+ably good for
+abounding with civility
+about five years
+about four months
+about nineteen and
+about nineteen years
+about ten months
+about the middle
+about the town
+about thirty she
+about twenty and
+about twenty has
+about twenty years
+about twenty-four years
+about twenty-one rather
+about twenty-two she
+about two years
+above any proof
+above has a
+above if you
+above lines from
+above mediocrity in
+above murmur the
+above nine tenths
+aca it all
+accomplished nymph has
+account for it
+acquainted with the
+act in concert
+act in that
+act the virago
+action she sings
+action under cover
+actions she comes
+actions under cover
+active ability she
+activity and ardor
+acts as a
+add she has
+add to all
+addicted to swearing
+addition youth and
+admirable work and
+admiration from most
+admire every limb
+admitted into her
+adorn the face
+adorned the most
+advance and retreat
+advanced in years
+advice can controul
+advise him to
+advise our reader
+affability must call
+affectation and innocence
+affected below nor
+afraid of work
+afraid to go
+after a six
+after every stroke
+after giving you
+after striking twelve
+after you feel
+again to repeated
+again with the
+against a man^s
+age for her
+age of nine-
+age of nineteen
+age of noah
+age of twenty
+ago posessed her
+ago to our
+ago to seek
+agreeable and pleasing
+agreeable companion fings
+agreeable companion the
+agreeable form first
+agreeable however she
+agreeable little girl
+agreeably till call^d
+ah stay and
+ah what a
+aid of ornament
+air soon kindles
+airs and generally
+alabaster that twine
+alabaster the symmetry
+alabaster very delicate
+alarm the sleeping
+alarms to love
+alike attain^d what
+alike desir^d when
+all and yet
+all beholders hearts
+all day and
+all her balmy
+all her desires
+all her limbs
+all her virgin
+all i ask
+all its burning
+all its native
+all join to
+all love s
+all lovers of
+all other yet
+all pleasing l
+all points and
+all potent juice
+all saints whilst
+all she at
+all spirit and
+all the amorous
+all the essence
+all the fire
+all the rich
+all the spright-
+all the thrillings
+all the world
+all these joys
+all things must
+all to provoke
+all who bathe
+all who but
+all who have
+all with the
+allow an introductory
+allow of any
+alluring she is
+almost any hour
+almost any sum
+almost needless her
+almost unbearable press
+aloud for rest
+also black of
+also many of
+altho the principal
+always expects two
+always gives one
+always ornamented with
+always ready to
+always sits in
+always to be
+am now content
+ambitious to receive
+amends and quite
+amiable in conversation
+amo- rous pressure
+amorous air soon
+amorous and engaging
+amorous contest that
+amorous devotee wish
+amorous disposition and
+amorous feat within
+amorous fire of
+amorous her price
+amorous passion she
+amorous qualifications she
+ample amends and
+ample shield can
+an able priest
+an ample shield
+an armful of
+an elegant form
+an eloise like
+an end this
+an english song
+an equally lewd
+an errant coward
+an eye each
+an indulgent father
+an introductory kiss
+an officer who
+an ornament to
+an uncommon share
+and a good
+and a graceful
+and a hood
+and a large
+and a lilly
+and a neat
+and a new
+and a strong
+and ability in
+and about twenty-two
+and aca it
+and active ability
+and affability must
+and after every
+and after giving
+and all these
+and all to
+and also many
+and although she
+and always gives
+and always sits
+and amiable in
+and amorous qualifications
+and animates the
+and ardor and
+and are charac-
+and arm and
+and as neat
+and as round
+and as they
+and ask repeated
+and at present
+and auburn ringlets
+and awakes each
+and be- haviour
+and beam unutterable
+and beautiful flaxen
+and being a
+and being particularly
+and below promise
+and blooming as
+and blue ey^d
+and both alike
+and bring the
+and can divide
+and can make
+and cast a
+and charm with
+and colour to
+and complexion we
+and corpulent yet
+and dances to
+and dancing it
+and dearly loves
+and disinterested might
+and disposition good
+and disposition that
+and drinks repetition
+and drown the
+and e er
+and eager for
+and elastic and
+and elegant countenance
+and elegant her
+and emanate the
+and engaging behaviour
+and enjoying her
+and enjoys with
+and enlists a
+and enlivened by
+and enter into
+and even the
+and evening excursions
+and every duet
+and every limb
+and every luscious
+and every minute
+and ex- pects
+and excellent features
+and expects a
+and extatic bliss
+and extraordinary well
+and eyes a
+and eyes are
+and feet claim
+and fierce desire
+and find how
+and foot is
+and for her
+and for three
+and fraught with
+and from the
+and gasping breath
+and generally chooses
+and genteel and
+and genteelly made
+and good breeding
+and good humour
+and good sense
+and hair a
+and handsome she
+and happy nor
+and has very
+and hasten to
+and hasty for
+and he was
+and heave at
+and her at-
+and her capacity
+and her dress
+and her her
+and her love
+and her mind
+and her skin
+and her tell-tale
+and his health
+and his purse
+and i am
+and i as
+and i^ll spend
+and if mr
+and if possible
+and in that
+and inclin- able
+and innocence without
+and inspire that
+and is at
+and is distinguished
+and is fond
+and is full
+and is just
+and is mistress
+and is now
+and is perfectly
+and is so
+and is up
+and ivory teeth
+and kept the
+and lament that
+and lean^d her
+and left her
+and liberal notwithstanding
+and like her
+and love in
+and lusty has
+and make the
+and make you
+and manners as
+and many pleasing
+and mind of
+and modest in
+and most animated
+and most elegant
+and mother she
+and nature quite
+and never fails
+and never have
+and not knowing
+and not more
+and one that
+and pay just
+and performs the
+and perhaps have
+and pleasing and
+and plump and
+and press home
+and presses out
+and protection of
+and quaver she
+and quite over
+and rather full
+and rather under
+and receive him
+and receives visits
+and red upon
+and retreat to
+and return the
+and return with
+and revel in
+and ripe with
+and rouse the
+and scarcely does
+and sensible who
+and set the
+and she soon
+and she strives
+and she was
+and short is
+and short yet
+and should it
+and sighs and
+and sim- plicity
+and sincerely attaches
+and skill in
+and smiling like
+and so do
+and so fully
+and so great
+and so well
+and some curious
+and sometimes has
+and soon after
+and sportive grove
+and springing from
+and sti remains
+and stifle quite
+and still give
+and sweet disposition
+and sweetly shades
+and swim in
+and swimming eyes
+and swimming sight
+and swore once
+and taste every
+and tear and
+and tem- per
+and the captain
+and the charms
+and the conversa-
+and the extatic
+and the extraordinary
+and the mother
+and the other
+and the tufted
+and the will
+and then each
+and there appear
+and there the
+and they have
+and tho she
+and threw her
+and thro the
+and till the
+and tired with
+and to be
+and tongue to
+and trace her
+and under the
+and unite in
+and united with
+and unsullied at
+and urge him
+and very inviting
+and very white
+and vigour to
+and vivacity of
+and vivacity which
+and warm the
+and was taught
+and we^ll together
+and when good
+and when to
+and whether she
+and which dart
+and which she
+and whilst she
+and will give
+and will take
+and wishes counts
+and wishing eyes
+and yet leave
+and you are
+and you must
+and young desires
+animated venus de
+animated work over
+animates her conversation
+animates the pulse
+ann-street east she
+anne street east
+annuity that will
+another her inundations
+another sea-born venus
+antagonist and it
+antr b s
+any cross barrs
+any gentleman who
+any hour of
+any house with
+any inslead of
+any language or
+any liberty in
+any man a
+any man that
+any of the
+any other a
+any other but
+any pleasure or
+any proof it
+any value upon
+any weight whatever
+ap- plied to
+apartments civility good
+apartments her fee
+appealing rather to
+appear the champion
+appear the flaxen
+appeared some years
+appearing to possess
+appetite after a
+appetite and return
+appetite and so
+appetite but seems
+apple cart and
+applied to her
+approach her shrine
+approach of morn
+approach of their
+april^s lily fair
+arch^d and rather
+ardor and drinks
+are as black
+are at a
+are certain to
+are charac- teristics
+are doomed to
+are far from
+are good a
+are highly pleasing
+are inclined to
+are informed she
+are informed that
+are molded for
+are not soon
+are not the
+are not to
+are of opinion
+are of that
+are placed above
+are placed below
+are pleasing and
+are regular and
+are remarkably fine
+are so fine
+are sure that
+are the reflections
+are the rewards
+are the tendrills
+are three or
+are vanquished by
+are very genteel
+are young and
+arise on enjoying
+arm^d at all
+armed there is
+armful of delight
+arms and enjoying
+arms he might
+arms i^ll expose
+arms of an
+arms of sleep
+arms of this
+arms the game
+art and manners
+art in raising
+art of restoring
+art thou flying
+artillery she plays
+artless simplicity that
+arts to see
+as a cer-
+as a deserving
+as a goat
+as alabaster very
+as ambitious to
+as an english
+as april^s lily
+as black and
+as ever beat
+as ever went
+as he has
+as he is
+as he thought
+as her breath
+as herself a
+as if secure
+as in conservation
+as june^s brightest
+as little as
+as many times
+as merry as
+as neat a
+as often as
+as round as
+as she keeps
+as she seems
+as she spoke
+as smartly covered
+as snow un-
+as soon as
+as the end
+as the external
+as the sooty
+as their faces
+as they languish
+as those two
+as to entitle
+as to give
+as to her
+as to one
+as to render
+as turtle^s down
+as well skilled
+as yet untutor^d
+as you can
+ask a fresh
+ask her she^ll
+ask of mortal
+ask repeated pleasures
+aspir^d and both
+assists to bring
+assumed the name
+assumes you must
+assuming thinks her
+at a favourite
+at a grocer^s
+at a loss
+at a sadler^s
+at a very
+at all points
+at almost any
+at any of
+at covent garden
+at every glance
+at every touch
+at her moderation
+at home and
+at least appearing
+at least seven
+at no little
+at present assumes
+at present goes
+at the age
+at the critical
+at the end
+at the length
+at the same
+at the shrine
+at the time
+at the west
+at the zenith
+at this time
+at which time
+at- tachment to
+atom of the
+attached to her
+attaches herself to
+attack and still
+attack now arrived
+attack only to
+attack she will
+attain^d what both
+attained her eighteenth
+attained her sixteenth
+attending her home
+attention nor do
+attract most who
+auburn hair and
+auburn hair dark
+auburn ringlets deck
+awakes each dormant
+away moment in
+away moment with
+away to the
+b nd is
+b nd no
+b ns n
+b r n
+b rd should
+b she keeps
+bacchus by heaven^s
+bacchus shoot the
+bags of nature
+balances these trifling
+balm and thro
+balm whilst the
+balmy nectar fraught
+balmy store whilst
+banner and when
+barrs and is
+bathe in her
+bathed in she
+bay with nancy
+be a very
+be admitted into
+be agreeable however
+be an errant
+be applied to
+be calm below
+be deplored that
+be disappointed she
+be fed nor
+be found in
+be had by
+be had the
+be in sable
+be justly called
+be led to
+be lusty she
+be noticed in
+be obliged to
+be overwhelmed with
+be perfectly alluring
+be pleased with
+be quenched but
+be rather silent
+be resisted till
+be soured for
+be sported with
+be stiled black
+be stiled en
+be taken for
+be there you
+be too high
+be very bay
+be very disagreeable
+be very justly
+be wondered at
+be- fore she
+be- haviour are
+be- witching girl
+be- witching grove
+beam delight and
+beam unutterable softness
+bear the bell
+beat alarms to
+beats up for
+beauti- ful skin
+beauties are still
+beauties oh for
+beautiful a face
+beautiful auburn hair
+beautiful black fringe
+beautiful bouquet in
+beautiful face an
+beautiful face dark
+beautiful flaxen hair
+beauty and good
+beauty as those
+beauty beats up
+beauty but founds
+beauty feasts the
+beauty has left
+beauty has made
+beauty such is
+beauty which with-
+beauty with- out
+beauty^s potent spell
+beaux esprits of
+became contented and
+become as merry
+become that heav
+becoming dignity and
+bed arm^d at
+bed its swelling
+bed she opens
+bed two dimples
+bed would ask
+bed-fellow and after
+bed-fellow and sincerely
+bed-fellow but has
+bedfellow young and
+bee sucks into
+been a sportswoman
+been at least
+been but a
+been in a
+been insupportable her
+been put to
+been quite so
+been ranked in
+been remarkably successful
+been sufficiently subjected
+before her partner
+before our charmer^s
+before she parts
+beg what yet
+began to be
+began to rave
+began to shoot
+begin and scarcely
+begins to bud
+behaviour are the
+behaviour to ruffle
+beheld a fresher
+behind those who
+behold the lovely
+behold them though
+behold those eyes
+beholders hearts neglecting
+being a fine
+being a very
+being bathed in
+being blest with
+being mercenary that
+being naturally of
+being now only
+being particularly attached
+being remarkably full
+being well fortifyed
+believe her to
+below a jetty
+below full full
+below mediocrity in
+below nor will
+below per- form
+below promise a
+bennett- street rathbone-place
+bent of amorous
+bent of her
+bentick street berwick
+ber to contribute
+berwick street close
+berwick-street soho toil
+beside ireland lays
+best boy in
+betsy cl rke
+betsy h ds
+betsy knows when
+betsy though she
+better deserve the
+better imagined than
+better qualified who
+better twine in
+bewitching brows is
+beyond price in
+beyond the bounds
+bid to do
+birmingham lays claim
+birth of this
+birth the sun
+bl ke no
+black and as
+black as the
+black be- witching
+black beauty her
+black eyes a
+black eyes contrasted
+black eyes that
+black fringe borders
+black fryars bridge
+black heath how
+black of which
+black surrounds the
+blaze of beauty
+blaze out and
+blest with a
+blest with beauty^s
+blest with enjoy-
+blind boy can
+bliss for the
+bliss her teeth
+bliss more delicious
+bliss quick darting
+bliss we eagerly
+blood and colour
+bloom of eighteen
+bloom still remains
+blooming as june^s
+blooming harriet whose
+blows in either
+blows is like
+blue ey^d nymph
+blue peepers that
+blush for they
+blushing summits own
+boarding school and
+boasted nectar of
+bolder grown your
+bon point in
+bon point plump
+borders enriched with
+borders the venetian
+borgia o thou
+borrow a little
+borrows from a
+borrows her name
+bosom and inspire
+bosom seat of
+both act in
+both alike attain^d
+both alike desir^d
+both kind and
+bottle to give
+boundage of her
+bountiful for when
+bountiful she possesses
+boxes in which
+boxes of the
+boy can find
+boy in its
+boy in town
+boy who fluttering
+br wn miss
+brake for from
+brandy bottle to
+brandy tub and
+breach and lament
+breast now rising
+breasts and swimming
+breasts are small
+breasts are so
+breasts pant keen
+breasts which in
+breath and swimming
+breath and wishing
+breath no advice
+breath symptoms of
+breathing animated venus
+breathing conflict to
+breeding her connections
+bridge fast lock^d
+brightest rose painted
+bring on the
+bring the soul
+brown and enlivened
+brown apple cart
+brown her breasts
+brown locks which
+brows he left
+brows is the
+brunette cast with
+bub from the
+bubbies and as
+bubbies as ever
+bubbies her leg
+bucks is this
+buds ravish the
+bulk her lovely
+buried soul in
+burning joys the
+burning kiss and
+burning kiss the
+burthen on his
+bushy might truly
+business as long
+busy frame is
+busy in thought
+busy limbs to
+but a pair
+but a very
+but abounding with
+but as we
+but being blest
+but borrow a
+but does not
+but false enjoyment
+but find- ing
+but founds her
+but has nothing
+but his dear
+but however strange
+but if you
+but in a
+but is too
+but is when
+but let nature
+but little she
+but not less
+but seems particularly
+but she is
+but she plays
+but some- how
+but still she
+but this we
+but though not
+but to others
+but we attack
+but we can
+but we cannot
+but we well
+but well knowing
+but when once
+but will not
+but will undergo
+but would be
+buxom lively luscious
+by a citizen
+by a grot
+by a mr
+by a sable
+by a very
+by every man
+by far the
+by fashion her
+by from motives
+by heaven^s shoot
+by her company
+by her eyes
+by her glory
+by many of
+by nature to
+by seeming to
+by stealth conveyed
+by tender squeezings
+by the amorous
+by the beaux
+by the elegancy
+by the hand
+by the lovers
+by the masterly
+by the most
+by the natural
+by the powerful
+by tresses of
+by two pyra-
+by two stars
+by whose death
+c p r
+c rb t
+c s no
+caesar borgia o
+call her our
+call their own
+call^d by nature
+called the cyprian
+callous to the
+calls aloud for
+calls any man
+calls thee to
+can act the
+can add she
+can ask her
+can better twine
+can cast her
+can controul her
+can divide as
+can enhance the
+can fill the
+can find the
+can give eloped
+can give more
+can make wantonness
+can possibly adorn
+can present our
+can sing a
+can so well
+can spend the
+can take in
+can unite her
+can wish here
+can wish this
+can- not possibly
+cannot be quenched
+cannot equal so
+cannot have lost
+capable of knowing
+capacity and skill
+captain blest with
+captain is from
+captain^s death they
+captain^s service before
+care and protection
+care i^ll defy
+care she gave
+careful of her
+carnation or rose
+carrots we would
+cart and stifle
+case to her
+casket of snow
+cast a look
+cast her lover
+cast with fine
+castalian spring will
+castle street ox-
+castle street oxford
+castle-street oxford market
+cause of her
+cealment in her
+celebrated fielding has
+celebrated ladies now
+centered in this
+centre of a
+centre sent she
+cer- tain preventative
+cerning her pretty
+certain to meet
+certainly thomson^s lavinia
+ch sh line
+chains which her
+chamber practice only
+champion of the
+channel at an
+chanting folds of
+chanting love hillocks
+charac- teristics of
+charge that calls
+charles street soho
+charlotte street and
+charlotte street rathbone
+charm with delightful
+charmer for she
+charmer^s feelings had
+charming and always
+charming girl rich
+charming girl who
+charming when drest
+charms and gives
+charms and the
+charms attract most
+charms even then
+charms every frown
+charms every perfection
+charms have for
+charms i hope
+charms in public
+charms invite the
+charms of youth
+charms the heart
+charms till even
+chastest heart and
+chearful companion and
+chearful glass and
+cheek or scatters
+cheek round which
+cheek upon her
+cheeks what stars
+chemise nature who
+chemistry give all
+choicee of her
+choicest and most
+choicest gifts of
+choose to sail
+chooses the lowest
+chose for her
+chuse her spark
+circle of her
+circumstance to those
+civility and good
+civility good hu-
+cl nt n
+cl nt on
+cl rk miss
+cl rke no
+claim her peculiar
+claims to public
+cleanliness or as
+cleared her gangway
+clever she is
+clients who may
+clock and every
+closed like a
+clothed that it
+cod would make
+colour to my
+colour which the
+coloured tresses of
+com- fortable apartments
+com- pliment that
+combat of thy
+combat she is
+combatant in the
+combines to raise
+come and taste
+come forth unadorned
+come nay we
+comes into our
+comfortable cup of
+coming busy in
+coming pleasure and
+coming pleasure is
+commend this fair
+common destroyer of
+common of independence
+common run of
+companion and has
+companion fings a
+companion the good
+company or her
+company that does
+compass of the
+compass the efficacy
+compelled her to
+compence for such
+complaisance and engaging
+complex and blue
+complex- ioned girl
+complexion and a
+complexion and excellent
+complexion and inclin-
+complexion as april^s
+complexion we can
+complexion with a
+complexion with light
+compliant to any
+comply but false
+complying with the
+compton street soho
+con- cerning her
+concert and charm
+conclude from mrs
+concord she does
+conduct the well
+conducted to this
+conducts it to
+confequence of her
+conflict is so
+conflict to the
+connections are good
+consent he pitch^d
+consequence of which
+consequences she is
+conservation we are
+containing the histories
+content this lady
+contented and happy
+contest that can
+continual noon and
+continues good humoured
+contrasted with her
+contribute again to
+contrives to chuse
+controul her love
+convenient to fin-
+conversa- tional intercourse
+conversation perfectly complying
+conversation she is
+conveyed to the
+convinced of the
+convinced that you
+copse puts the
+cordial reception he
+cornuted burthen on
+corps in confequence
+corpulent yet notwithstanding
+couch were plac^d
+could and kept
+could match turk
+could take em
+countenance beat alarms
+countenance which ever
+country bloom still
+country but a
+country of pleasure
+counts the clock
+course shoots powerfully
+courteous in her
+covent garden theatre
+covent-garden ladies or
+cover ever do
+cover truly amorous
+covered and as
+covered grotto thinner
+coverings ever disgrace
+coward indeed who
+cr sby no
+cross barrs and
+crotchet no flower
+crown to half
+crown^d the night
+crowns the summit
+crura embrace it
+crura en- twine
+cry out with
+cup of tea
+cyprian games about
+cyprian grove whilst
+cyprian spirit many
+cyprian stage and
+cyprian torrent which
+cytherean rites like
+d at a
+d d no
+d d that
+d gl ss
+d no hind-court
+d that a
+d v np
+d v nsh
+d v s
+dainty leg and
+dame poessessed of
+damon says she
+dances and is
+dances to perfection
+dances will drink
+dark brown hair
+dark complexion and
+dark complexion with
+dark eyes speak
+dark hair black
+dark hair flowing
+darkest brown and
+darkness her temper
+dart a lustre
+dart flash in
+dart which when
+darted from her
+darting thro the
+day and aca
+day in the
+day of the
+dazzling light that
+de medicis her
+de- licious night
+de- light a
+de- light reared
+deal of labour
+dealed out her
+dear delight i^ll
+dear delightful spot
+dear nancy she
+death my soul
+death she receives
+death they lived
+debauched by a
+deceive you it
+decency but let
+deck her head
+defeat pant only
+defies any weight
+defy give desire
+degrade herself by
+degrees above any
+delicate and sensible
+delicate and soft
+delicious death my
+delicious suction which
+delicious swell as
+delicious than the
+delight add to
+delight heaving breasts
+delight i^ll talk
+delight lesson his
+delight must be
+delight not less
+delight she is
+delight that mutual
+delight with their
+delightful channel at
+delightful every part
+delightful manoeuvre knowing
+delightful mount and
+delightful spot they
+delightful unison whilst
+delirium and then
+dells on the
+demands or nice
+demi globes of
+deners are of
+dented marks in
+deplored that a
+deprive them of
+dercription but however
+descend still lower
+descends to poor
+described in soft
+desert this lady^s
+deserve the burning
+deserves the attention
+design^d will run
+desir^d when beauty
+desirable as they
+desirable bed-fellow and
+desirable well tem-
+desirable woman miss
+desire blaze out
+desire can unite
+desire can wish
+desire of becoming
+desire such a
+desire their blushing
+desire till quite
+desireable piece as
+desired for one
+desires of her
+desires taste those
+desires unmanageable pitch
+desiring girl expects
+desription is almost
+destroy hands tongue
+destroyer of beauty
+destroys we lose
+deviation from true
+devoid of art
+devotee wish us
+dex- terity her
+dexterity she is
+dia^s and left
+did not stay
+differ from those
+dignity and ask
+dimples makes ample
+dimples sweet good
+dis- position and
+disagreeable circumstance to
+disagreeable so we
+disappointed she is
+discipline forms the
+disgrace their owner
+disinterested might appear
+display a casket
+displays so much
+dispolition when once
+disposed for the
+disposition and a
+disposition and tem-
+disposition good and
+disposition that good
+dissimulation and not
+dissolving in delight
+distended parts her
+distil nectarious balm
+distinguished more by
+distributed but though
+divide as smartly
+divinely perfect thou
+do i ah
+do if you
+do injustice to
+do not produce
+do spangle heaven
+do their coverings
+do this young
+does as she
+does not allow
+does not degrade
+does not expect
+does not extend
+does not receive
+does not refuse
+does not rely
+does not take
+does purest softness
+does she allow
+does with each
+doomed to support
+door to the
+dormant sense when
+doubtful which lips
+down at the
+down keeps the
+down to her
+down to the
+downy bed its
+drags a heavy
+draw st one
+drawn through its
+dreg of all
+dress than the
+dresses neat and
+drest yet we
+drink a glass
+drinks repetition with
+driven snow and
+drives a good
+drooping plant thinks
+drops of the
+drown the senses
+drowns the seed
+ds n at
+duet in a
+duets and every
+duke-street saint james
+dull the spring
+duration nature wound
+during her performance
+during which time
+dye my soul
+dye-away moment that
+dying you tremble
+e er she
+each dormant sense
+each eye and
+each eye birmingham
+each heart till
+each look has
+each night should
+each part combines
+each with comply
+eager arms the
+eager fondness will
+eager for the
+eager twine the
+eagerly aspir^d and
+early and the
+early period the
+early this thicket
+earn her money
+earth each night
+east -lilting o
+east behold those
+east she darted
+effect is rather
+efficacy of a
+eight months we
+eighteen has so
+eighteenth year dances
+either cheek round
+either in a
+either youth or
+elapsed in the
+elastic and heave
+elasticity in her
+ele- gantly formed
+electric touch it
+elegance without affectation
+elegancy of her
+elegant countenance beat
+elegant her make
+elegant poets fancy
+elegant she is
+elegantly and in
+elegantly made with
+eloise like her
+eloped from her
+elysian font in
+em this young
+emanate the flames
+embrace both act
+embrace it and
+embrace she is
+embrace warmth to
+empty her whole
+en- chanting folds
+en- chanting love
+en- joyment of
+en- ters properly
+en- tertainment is
+en- twine and
+ena- morato^s she
+enable her to
+enchanting bedfellow young
+enchanting girl in
+enchanting her lovely
+encircle her bewitching
+enclose an armful
+encounter and seem
+end of a
+end of the
+end this lady
+endearing chemistry give
+ended the common
+engaged at once
+engaging behaviour are
+engaging partner whilst
+england and enlists
+english song and
+engulph the raptured
+enjoy you as
+enjoy- ment may
+enjoy- ment of
+enjoying betsy though
+enjoying her charms
+enjoyment feels the
+enjoyment her hair
+enjoyment is the
+enjoyment the kind
+enjoys the pleasure
+enjoys with unfeigned
+enlist under its
+enlists a volunteer
+enlivened by two
+enough to get
+enriched with wavering
+enter into servitude
+enter the cordial
+entered into her
+enters a volunteer
+enters our list
+entertain you a
+entertainment there are
+entirely for some
+entitle her to
+entwine the busy
+epithets for a
+epitome of de-
+equal pace while
+equal so vastly
+equally lewd partner
+equipped for the
+er her delightful
+er the lea
+errant coward indeed
+esprits of the
+essence of unsatiated
+essential bliss for
+ev ry sense
+even strength like
+even teeth plump
+even then he
+evening excursions re-
+evening excursions to
+evening the generally
+ever beat time
+ever been put
+ever beyond price
+ever disgrace their
+ever do injustice
+ever favoured might
+ever keep her
+ever planted below
+ever ready to
+ever seems to
+ever to be
+ever went against
+every action under
+every addition youth
+every atom of
+every attack now
+every delightful manoeuvre
+every duet in
+every frown of
+every glance to
+every joy the
+every limb is
+every lover that
+every luscious idea
+every luscious move
+every man capable
+every man of
+every manoeuvre in
+every manoeuvre necessary
+every minute drags
+every moment of
+every nerve propels
+every one who
+every part assists
+every perfection enters
+every perfection that
+every personal charm
+every requisite to
+every sense does
+every shake and
+every stroke gives
+every thought and
+every touch the
+ex- pecting more
+ex- pects five
+ex- pects if
+ex- tatic embrace
+exactly suit but
+examine her whole
+excellent features her
+exchange love for
+exclaims her fairest
+excursions re- gularly
+excursions to seek
+exhausted of all
+existence in the
+expecting two guineas
+expects at least
+expects for a
+expects three guineas
+expects three of
+expects thy coming
+expects two pounds
+expensive consequences she
+experience finishes the
+experience this lady
+expose every part
+expressive blue eyes
+exquisite of human
+extatic bliss her
+extatic oh such
+extatic rapture she
+extend beyond the
+external crura en-
+extra- vagant in
+extraordinary warmth of
+extraordinary well formed
+ey^d nymph she
+eye admire every
+eye and a
+eye and revel
+eye and rouse
+eye birmingham lays
+eye descend still
+eye each look
+eye sooths every
+eye the melting
+eyes a side
+eyes and about
+eyes and as
+eyes and eye-brows
+eyes and lively
+eyes and very
+eyes and was
+eyes are black
+eyes are molded
+eyes become that
+eyes contrasted with
+eyes fair skin
+eyes fine even
+eyes in liquid
+eyes seem wishing
+eyes sparkle and
+eyes speak indeed
+eyes that are
+eyes that swim
+eyes this accomplished
+eyes to all
+eyes which are
+f ld at
+fa- vourite fair
+face an elegant
+face and mind
+face at the
+face dark hair
+face exclaims her
+face is handsome
+face of this
+face she has
+face that though
+face till at
+face to the
+face well worth
+failing delight add
+fails to alarm
+faint and hasten
+fair a stranger
+fair and blooming
+fair betsy knows
+fair complex and
+fair complex- ioned
+fair jewess but
+fair one is
+fair still blooming
+fair thought it
+fair to grace
+fair tresses and
+fairest lily cannot
+fallen mem- ber
+false enjoyment the
+fancy but she
+fancy ever favoured
+fanned by the
+far the better
+fashion her charms
+fast lock^d in
+fat and corpulent
+fat and short
+father and mother
+fatigue with eager
+fault if it
+faultering speech and
+fav rite with
+favour on in-
+favoured might be
+favourite hop at
+favourite lord unfold
+favourite piece for
+fear she then
+feast the longing
+feasts the glutton
+feat within the
+features her mouth
+fectly charming when
+fed nor know
+fee is from
+feeds the eye
+feel the graceful
+feeling and disinterested
+feelings had reached
+feels in- stinctively
+feels the thrilling
+feet claim her
+female arts to
+female combatant in
+female fortitude and
+fetch^d sighs the
+few dells on
+few if any
+fielding has given
+fierce desire can
+fifteen is short
+fifteenth year pure
+figure and amiable
+figure beautiful face
+figure in public
+figure is elegant
+figure tall and
+figure which she
+fill the night
+filled with every
+fin- ish his
+find her a
+find her quite
+find his person
+find how sweet
+find the agreeable
+find- ing himslef
+fine and so
+fine auburn hair
+fine even teeth
+fine hazel love-swimming
+fine languishing eyes
+fine piece of
+fine plump girl
+fine she is
+fine teeth and
+finest tints of
+fings a good
+finishes the female
+fir^d to the
+fire and vivacity
+fire of wanton
+fire the most
+fire thro every
+fires and trace
+firm bubbies her
+firmness she is
+first floor has
+first put one
+first rate ship
+five guineas mrs
+five shillings is
+five years and
+flame her eyes
+flame that cannot
+flamed sensualist can
+flames which seem
+flash in each
+flats she has
+flaxen hair but
+flaxen tendrils wantonly
+fleet street o
+flew seem^d not
+flight this lady
+flight with thine
+flower that blows
+flowing bliss more
+flowing in ringlets
+flows in unlimited
+fluid which her
+flute but she
+flute her moving
+flute her temper
+flutter about the
+fluttering here may
+flying lost in
+fo languishingly sweet
+foecundity some skilful
+folds plays loosely
+follow his labour
+fond and can
+fond is she
+fond of being
+fond of dancing
+fond of frequenting
+fond of musick
+fondness will renew
+font in the
+foot and as
+foot and leg
+foot as ever
+foot is particularly
+foot she is
+for a fourth
+for a guido^s
+for a single
+for a winter^s
+for a woman
+for any other
+for clients who
+for from its
+for fun and
+for h ranger
+for half a
+for her and
+for her face
+for her master
+for her spunk
+for it is
+for joined to
+for lips to
+for love and
+for love should
+for loveliness needs
+for manual pressure
+for more this
+for one or
+for one pound
+for recruits he
+for rest the
+for returning vigour
+for seeing life
+for she possesses
+for she takes
+for she will
+for such merit
+for support and
+for the attack
+for the charge
+for the en-
+for the enjoy-
+for the flight
+for the hour
+for the power
+for the sake
+for the tender
+for the year
+for their zest
+for they may
+for three guineas
+for variety and
+for want of
+for what is
+for when loose
+for which she
+force the joy
+ford market give
+fore she is
+foreign aid of
+form and a
+form cytherean rites
+form first put
+form is majestic
+form the delicious
+formed for a
+formed her black
+formed pant- ing
+formed tumid guest
+formerly at no
+forms the soldier
+fortable apartments civility
+forte sings dances
+forth unadorned get
+fortifyed with root
+fortitude and urge
+fortunate enough to
+forty rather fat
+found means to
+founds her claims
+fount of de-
+four more ladies
+fourth grace or
+fr s r
+frailty her face
+frame and awakes
+frame is engaged
+frame its thrilling
+frame the short
+fraught and all
+free and open
+freedom which fanned
+french as well
+frequenting public hops
+frequently seen that
+frequently to overflow
+fresh attack and
+fresh country bloom
+fresh tone and
+fresh vigor to
+fresher sweeter nymph
+friction with a
+friend by whose
+friend the captain
+friend to humour
+friend to mirth
+friend to receive
+friends in the
+fringe borders the
+frith-street a rose-bud
+from a crown
+from a mere
+from a practical
+from bacchus by
+from bacchus shoot
+from her friends
+from her late
+from her other
+from its present
+from most of
+from mrs d
+from one of
+from such an
+from the bed
+from the large
+from the necessity
+from those of
+from true concord
+from whence the
+from youthful lips
+frown of old
+fryars bridge fast
+ful skin and
+full as well
+full full ripe
+full of cyprian
+full of joy
+full ripe for
+full tranfports crown^d
+fully contrasted by
+fully shaped as
+fuses to enlist
+g rge at
+gain the liberty
+gains her the
+game must instantly
+game whilst the
+games about five
+gangway and threw
+gantly formed her
+gar- deners are
+gasping breath symptoms
+gaudy prospect feeds
+gave birth to
+gave her kind
+gaws that flutter
+gaze the senses
+general ravager of
+general to be
+generally chooses the
+generally to be
+generally visits one
+generous free- hearted
+genteel agreeable little
+genteel and her
+genteel her complexion
+genteel lady about
+genteel made little
+genteelly made with
+gentle- man of
+gentle- man^s pocket
+gentleman in the
+gentleman who is
+gentleman who some
+gentleman whose name
+genuine female fortitude
+genuine lovers of
+george street over
+george the third
+george^s hotel opposite
+get into her
+get once the
+gew- gaws that
+gifts of minerva
+gination is filled
+girdle loose there^s
+girl about twenty-two
+girl and is
+girl and the
+girl enters our
+girl expects thy
+girl hither resort
+girl in bed
+girl in question
+girl is about
+girl presents us
+girl rich with
+girl she seems
+girl though young
+girl who has
+girl who should
+girl with the
+give all spirit
+give desire such
+give eloped from
+give her a
+give me but
+give me plenty
+give pleasure in
+give that sincere
+given the heroine
+gives a sudden
+gives fresh tone
+gives one kind
+giving birth to
+giving you a
+gl ss no
+glance just as
+glance the buried
+glance to tell
+glances her hair
+glass and is
+glass in one
+glass with her
+globes of delight
+glory in their
+glow in her
+glutton love the
+go home again
+go into any
+goal design^d will
+god where the
+gods engulph the
+goes by from
+gone through it
+gone to the
+good a peas
+good and i
+good and if
+good and she
+good breeding her
+good companion she
+good deal of
+good education and
+good for a
+good friend whose
+good hair and
+good humour complaisance
+good humoured girl
+good humoured if
+good keeper^s leaving
+good nature and
+good nature is
+good nature speak
+good sense here
+good set of
+good so sweet
+good teeth a
+good trade and
+goodge steet charlotte
+got the better
+gown and a
+gr ff n
+gr n no
+grace his notes
+grace or a
+graceful always ornamented
+graceful figure beautiful
+graceful manner you
+graceful move and
+graceful ringlet has
+graces is never
+grahamatic method from
+grasp the pointed
+great a fav
+great chemise nature
+great orna- ment
+greatest dexterity she
+greatest part of
+green boxes of
+green gew- gaws
+gregory and when
+grew strongly attached
+grey eyes and
+grocer^s shop south
+grot black as
+grotto thinner distributed
+grove supported by
+grove that crowns
+grove then all
+grove whilst her
+grown your hand
+guest and as
+guest to enter
+guide destroys we
+guido^s touch or
+guinea and a
+guinea and she
+guinea is then
+guinea will enjoy
+guinea would recom-
+guineas for the
+guineas he is
+guineas she has
+guineas the first
+gularly and enjoys
+gulf of venus
+gush and the
+h both kind
+h ll n
+h ll ngb
+h nl y
+h nn h
+h ranger formerly
+h st ng
+h w rd
+had a child
+had a number
+had by a
+had him in
+had long been
+had not elapsed
+had not the
+had reached their
+had she less
+had the separate
+hail beauty such
+hair a lovely
+hair and ivory
+hair are of
+hair but is
+hair dark eyes
+hair flowing in
+hair is also
+hair of the
+hair which left
+hair which waves
+half the sum
+hand and cast
+hand by stealth
+hand conducts it
+hand insatiate rove
+hand of time
+hand soft as
+hands tongue lips
+handsome and her
+handsome she has
+handsome still she
+happiness the true
+happy nor wished
+happy pair it
+harbour of never
+harriet j n
+harriet the fair
+harriet whose eyes
+harvest lips can
+has a keeper
+has a variety
+has always been
+has and is
+has beauty with-
+has been but
+has been remarkably
+has ever been
+has given the
+has gone through
+has had a
+has just attained
+has left his
+has no pretensions
+has not sported
+has nothing re-
+has nothing to
+has now only
+has played the
+has power to
+has several city
+has so beautiful
+has strength to
+has such a
+has the character
+has this child
+has two spare
+has unfortunately lost
+has very little
+hast thou beheld
+hasten to enjoyment
+hasty for the
+have a great
+have a part
+have a springinness
+have been insupportable
+have been ranked
+have been sufficiently
+have began to
+have for their
+have frequently seen
+have known her
+have lost her
+have only known
+have opened the
+have recourse to
+have tempered a
+have the happiness
+have written there
+haven of delight
+having been at
+having no particular
+haviour are good
+hay whilst the
+hazel eyes and
+hazel eyes very
+hazel love-swimming eyes
+hazel which without
+he began to
+he come and
+he could and
+he grew strongly
+he had got
+he has strength
+he is conducted
+he kept her
+he may require
+he meets therein
+he might perform
+he pitch^d the
+he should damon
+he uses any
+he was all
+he will not
+he would take
+he^d try the
+head her heaving
+health uninjured here
+heart and melt
+heart can wish
+heart of every
+heart of the
+heart the grove
+heart till bolder
+heart to strong
+hearted noble feeling
+hearts neglecting she
+hearts of the
+heat return^d with
+heath how early
+heav nly face
+heave at every
+heaven of beauties
+heaven with so
+heaven^s shoot suns
+heaving breasts and
+heaving breasts pant
+heavy pace till
+height and receive
+her a syllable
+her about four
+her about six
+her agreeable form
+her agreeably till
+her and has
+her and in
+her appetite and
+her appetite but
+her arms and
+her as he
+her at- tachment
+her back and
+her back languishing
+her balmy store
+her bewitching brows
+her black eyes
+her bosom and
+her breath no
+her but a
+her by every
+her capacity and
+her castalian spring
+her charms every
+her charms till
+her cheek or
+her cheek upon
+her cheeks are
+her cheeks what
+her choicest and
+her claims to
+her company or
+her complexion and
+her complexion as
+her complexion of
+her connections are
+her conversation she
+her couch were
+her dear mr
+her delightful mount
+her demands or
+her desription is
+her dress than
+her either in
+her ena- morato^s
+her evening excursions
+her eye and
+her eye brows
+her eyes as
+her eyes of
+her eyes sparkle
+her face exclaims
+her fairest of
+her favours for
+her fee is
+her fifteenth year
+her figure in
+her first appearance
+her flight with
+her foot and
+her for she
+her for two
+her form is
+her friend by
+her from the
+her gangway and
+her girdle loose
+her glory in
+her good keeper^s
+her hair a
+her hair her
+her hand by
+her hand conducts
+her haven of
+her head her
+her heaven of
+her her nut
+her here then
+her ima- gination
+her in a
+her in her
+her in your
+her into the
+her inundations differ
+her kind consent
+her knowledge of
+her limbs are
+her limbs unbound
+her lively lively
+her loins that
+her look serene
+her love she
+her lovely demi
+her lovely fair
+her lover to
+her low countries
+her maidenhead was
+her make truly
+her male visitors
+her manner but
+her master a
+her mind replete
+her moderation in
+her money by
+her mouth is
+her moving stars
+her music is
+her name she
+her neck and
+her nineteenth year
+her noon and
+her nut brown
+her other sisters
+her our own
+her own apartments
+her own she
+her paramour gives
+her parents when
+her partner has
+her partner pleases
+her parts and
+her peculiar attention
+her performance of
+her person she
+her person which
+her pleasant native
+her port hole
+her pouting lips
+her present situation
+her pretty lodger
+her price and
+her quite to
+her rather more
+her round the
+her sex she
+her shape is
+her she was
+her she^ll refuse
+her shrine without
+her skin is
+her soft bosom
+her spark and
+her spark to
+her sportive profession
+her spunk being
+her stature tall
+her swain presses
+her tell-tale dark
+her temper rivets
+her temper she
+her tenacious arms
+her that she
+her to confine
+her to leave
+her to our
+her to take
+her too she
+her twentieth year
+her unequall^d charms
+her value she
+her violent attachment
+her virtue overboard
+her visitors her
+her vocal abilities
+her waist nor
+her wanton thoughts
+her which is
+her white teeth
+her whole naked
+her whole quiver
+her words it
+here and there
+here feast the
+here may he
+here may his
+here may point
+here the voluptuary
+here then may
+here whilst plutus
+here you may
+here youth and
+heroine ofhis most
+herself a desireable
+herself and is
+herself by her
+herself to the
+high on the
+high sounding epithets
+highest note he
+highest pitch after
+highly pleasing and
+hills below full
+him again with
+him away to
+him home and
+him in her
+him in his
+him in the
+him midway with
+him to who
+himslef mistaken and
+hind-court fleet street
+his brows he
+his caesar borgia
+his dear nancy
+his dented marks
+his embrace warmth
+his existence in
+his fa- vourite
+his fancy but
+his health uninjured
+his labour with
+his notes he
+his own and
+his person and
+his pocket can
+his pride with
+his purse safe
+his very sense
+his was spent
+histories and some
+hither resort then
+hn t n
+hole cleared her
+home and return
+home and the
+home at almost
+home the vigorous
+home with singular
+honest than we
+honour of giving
+hood a pretty
+hood but would
+hop at the
+hope with a
+hops where if
+hops where she
+hospital mark my
+hotel opposite virginia
+hour of the
+hour she turns
+hours of love
+house and after
+house and you
+house any gentleman
+house if this
+house with you
+how dull the
+how early this
+how long this
+how nature stands
+how or another
+how sweet it
+how to keep
+however prove to
+however she may
+however strange it
+human pleasures ah
+humid fires and
+humour complaisance and
+humour or offend
+humoured girl and
+humoured if he
+i ah stay
+i am now
+i as to
+i ask of
+i have a
+i hope none
+i will whip
+i^ll defy give
+i^ll expose every
+i^ll spend the
+i^ll talk of
+idea refined sensibiiity
+if a man
+if any inslead
+if discipline forms
+if he is
+if he uses
+if her partner
+if it be
+if mr b
+if not at
+if possible to
+if secure of
+if she calls
+if she thinks
+if they are
+if this lady
+if women were
+if you are
+if you per-
+if you wish
+ima- gination is
+imagined than described
+immediately descends to
+imperfections she has
+in a first
+in a natural
+in a short
+in a skin
+in a style
+in a ta-
+in all and
+in all its
+in bed a
+in bed with
+in company that
+in concert and
+in confequence of
+in conservation we
+in conversation perfectly
+in delight heaving
+in duets and
+in duration nature
+in each heart
+in either cheek
+in every delightful
+in general to
+in her breast
+in her business
+in her castalian
+in her company
+in her disposition
+in her loins
+in her looks
+in her manner
+in her present
+in her sportive
+in her tenacious
+in her turn
+in her veins
+in her way
+in his caesar
+in humid fires
+in its charms
+in keeping and
+in lieu of
+in life nine
+in life not
+in liquid pools
+in love^s potent
+in lovely tumults
+in many a
+in me i
+in not ex-
+in pleasure better
+in point of
+in pricking altho
+in public but
+in ringlets down
+in sable night
+in she has
+in short during
+in size with
+in small compass
+in soft silent
+in stopping and
+in sweet tumultuous
+in tempting curls
+in the action
+in the breach
+in the captain^s
+in the chastest
+in the choicee
+in the city
+in the course
+in the dress
+in the dye-away
+in the en-
+in the extreme
+in the eyes
+in the female
+in the frail
+in the height
+in the leaden
+in the low-lands
+in the most
+in the nicest
+in the other
+in the pleasing
+in the richest
+in the rites
+in the science
+in the season
+in the side
+in the sister-
+in the skirmishes
+in the town
+in the treacherous
+in the warm
+in the way
+in the world
+in their choice
+in their defeat
+in this age
+in this be-
+in this delightful
+in this her
+in this lady^s
+in thought and
+in unlimited tresses
+in vain but
+in want of
+in which as
+in which nature
+in which place
+in whiteness sur-
+in years became
+in years may
+in your eager
+in- dia^s and
+in- flamed sensualist
+in- stinctively and
+in- ternal merit
+inclin- able able
+increase of pleasure
+increase the undiscrib-
+indeed her particular
+indeed is better
+indeed she has
+indeed the tender
+indeed this fair
+indeed turned of
+indeed who re-
+independant lass having
+independence she is
+indulgent father and
+informed she is
+informed that her
+ing bubbies and
+ing himslef mistaken
+ing than otherwise
+injustice to that
+innocence without dissimulation
+insatiable half a
+insatiably to prove
+insatiate and ripe
+insatiate rove o
+inslead of expecting
+inspire that life
+instantly begin and
+instinctively desire blaze
+insupportable her eyes
+inter- course shoots
+interchange of souls
+intercourse with a
+internal crura embrace
+into any house
+into her com-
+into her house
+into her nineteenth
+into her pleasant
+into keeping by
+into our corps
+into servitude and
+into the nineteenth
+introductory kiss so
+inundations differ from
+invader of middlesex
+invite the guest
+invite the rosy
+inviting countenance which
+ioned girl with
+ireland lays claim
+is a buxom
+is a charming
+is a disagreeable
+is a good
+is a loving
+is a pity
+is a tall
+is able to
+is about eighteen
+is about nineteen
+is about thirty
+is about twenty-five
+is about twenty-four
+is agreeable and
+is almost needless
+is also black
+is always to
+is amorous to
+is an epitome
+is beauti- fully
+is better qualified
+is blessed with
+is but a
+is but little
+is by far
+is certainly thomson^s
+is charming and
+is clever she
+is commonly two
+is conducted to
+is distinguished more
+is drawn through
+is ele- gantly
+is elegant she
+is engaged at
+is equally charming
+is ever beyond
+is far from
+is filled with
+is fortunate enough
+is from a
+is from town
+is from two
+is full as
+is handsome and
+is her appetite
+is if she
+is impossible to
+is in bed
+is in good
+is in keeping
+is indeed turned
+is like her
+is majestic tall
+is near two
+is neither extra-
+is never out
+is nevertheless a
+is no tune
+is not above
+is not afraid
+is not at
+is not in
+is not less
+is not of
+is not quite
+is not so
+is not without
+is now gone
+is now just
+is now kept
+is now rather
+is now steering
+is obliged to
+is paid her
+is particularly graceful
+is per- fectly
+is perfect mistress
+is perfectly satisfyed
+is played in
+is pleasing though
+is possesed of
+is provided the
+is rather below
+is rather pleas-
+is ready for
+is really a
+is remarkably fond
+is remarkably good
+is reported to
+is said like
+is shameful to
+is she of
+is short and
+is so far
+is so soon
+is still the
+is sufficiently armed
+is symmetry every
+is tall of
+is the boundage
+is the more
+is the most
+is the place
+is the price
+is the reason
+is the vermilion
+is then too
+is thine electric
+is this lady
+is to me
+is too fond
+is true she
+is various in
+is very agreeable
+is very careful
+is very fat
+is very genteel
+is very good
+is very ready
+is very well
+is warm with
+is well acquainted
+is well worth
+is when unadorned
+is willing to
+is willingly compliant
+is your own
+ish his existence
+island of love
+it about two
+it all the
+it and presses
+it be in
+it be soured
+it begins to
+it convenient to
+it doubtful which
+it downy bed
+it flew seem^d
+it flows in
+it has ever
+it in her
+it in his
+it is about
+it is an
+it is but
+it is ever
+it is generally
+it is impossible
+it is near
+it is shameful
+it is supposed
+it is to
+it is true
+it is your
+it it is
+it makes her
+it must have
+it once without
+it that she
+it to the
+it was only
+itch for variety
+its banner and
+its bed two
+its borders enriched
+its burning joys
+its charms i
+its increase of
+its most natural
+its native freedom
+its parts its
+its present state
+its ruby portals
+its swelling rival
+its thrilling transports
+ivory teeth must
+j hn t
+james s how
+jetty black surrounds
+jewess but a
+join to invite
+joined to a
+joy the most
+joy which by
+joy whilst through
+joy whose charms
+joy with her
+joyment of the
+joys enjoyment is
+joys insatiably to
+joys the tell-tale
+juice is drawn
+juice of the
+juice shall pervade
+june^s brightest rose
+just arrived at
+just attained her
+just obedience to
+just where he
+justly ap- plied
+justly called the
+k n castle-street
+kalender for the
+ke no castle
+keen appetite after
+keen desire their
+keep her from
+keep her spark
+keep time when
+keeper a mr
+keeper who is
+keeper^s leaving england
+keepers london printed
+keeping and also
+kelly^s duke-street saint
+kept by a
+kept the stops
+kerning miss b
+kerning miss betsy
+kerning miss d
+kerning miss h
+kerning mrs d
+key she has
+kind consent he
+kind guide destroys
+kind kiss before
+kindles into a
+king street soho
+king^s smallest picture
+kiss before she
+kiss so uncurbed
+kiss that waits
+kiss the ex-
+kisses fir^d to
+know it makes
+know satiety for
+know satiety here
+knowing her value
+knowing how long
+knowing how to
+knowing the value
+knowing their value
+knowledge of its
+knowledge she is
+known and so
+known by the
+known her about
+knows when numbering
+l nds y
+l v r
+l-d-tt who about
+labour in the
+labour with any
+ladies now on
+ladies of our
+ladies or man
+lady appeared some
+lady assumed the
+lady borrows her
+lady has and
+lady has been
+lady is a
+lady is said
+lady keeps the
+lady should not
+lady that her
+lady was born
+lady we are
+lady who tho
+lady^s charms attract
+lady^s graceful figure
+lament that the
+language of love
+language or behaviour
+languish read what
+languishing blue peepers
+languishing eye of
+languishing eyes fine
+languishing grey eyes
+languishingly sweet as
+large brandy tub
+larger bulk her
+lass about twenty-four
+lass having no
+last bliss we
+last extatic gush
+last precious drops
+last we would
+late keeper who
+lately distended parts
+lately in keeping
+lavinia for loveliness
+lavishly bountiful for
+lavishly bountiful she
+lay and lean^d
+lay she lay
+lays behind those
+ld at a
+lea ye^re welcomer
+leaden way she
+leads the train
+lean^d her cheek
+least appearing to
+least deviation from
+least fire from
+least seven years
+least she expects
+leave her parents
+leave it doubtful
+leave room for
+leaving england and
+led to imagine
+lee in his
+left and when
+left her about
+left her to
+left his dented
+left to twine
+legs and every
+leicester-fields the nymphs
+length with mutual
+less partiality for
+less than a
+less than five
+less than half
+less than nine
+lesser artillery she
+lesson his pride
+let me be
+let nature come
+let nature empty
+let them but
+lewd partner she
+liberal notwithstanding which
+liberty in company
+liberty of assuming
+liberty of attending
+licious night to
+life and every
+life and performs
+life compelled her
+life dissolving in
+life fire and
+life more than
+life nine months
+life not more
+life twelve months
+life would prove
+light a quintescence
+light reared on
+light that dwells
+lik^d by the
+like a rose
+like an able
+like an ample
+like her cheek
+like her too
+like her words
+like his was
+like many others
+like nereids round
+like the morn
+like the river
+lilly white skin
+lily cannot equal
+lily fair and
+lily makes its
+limb is symmetry
+limbs the sudden
+limbs to force
+limbs unbound her
+lines from one
+liness and vivacity
+lingual inter- course
+lips and tongue
+lips better deserve
+lips can give
+lips distil nectarious
+lips legs and
+lips pour sweetest
+lips the playful
+lips to lips
+lips with balmy
+lips you soon
+liquid eye the
+liquid pools sustain^d
+lisle-street leicester fields
+lisle-street leicester-fields the
+list of tolerable^s
+list the fresh
+lists of many
+little annuity that
+little as they
+little fire from
+little firm bubbies
+little girl and
+little girl with
+little lively fair
+little of the
+little persua- sion
+little prattlers were
+little russel-street strait
+little she is
+little time ago
+lived the happy
+lively and chearful
+lively and sweet
+lively fair complex-
+lively hazel which
+lively luscious bed-fellow
+lives in very
+ll nd no
+ll ngb rg
+lock^d in her
+locks which are
+lodger above if
+loins that she
+london printed for
+long as he
+long before she
+long glance just
+long this train
+longing appetite and
+look fo languishingly
+look has power
+look serene does
+looks well dresses
+looks when closed
+loose it flows
+loose that the
+loose there^s nothing
+loose to such
+loosely over a
+loosest wishes in
+lord unfold and
+lose the passion
+lost and all
+lost blush for
+lost her appetite
+lost her friend
+lost in sweet
+lost the transports
+love all day
+love and beam
+love and she
+love and so
+love and under
+love dealed out
+love from youthful
+love her pouting
+love hillocks nature
+love in a
+love in all
+love in bed
+love of the
+love of variety
+love s lesser
+love she does
+love should be
+love so that
+love sparkling eye
+love sport in
+love the raven
+love this lady^s
+love who can
+love with all
+love-swimming eyes and
+love^s game whilst
+love^s potent stream
+loveliness needs not
+lovely brown her
+lovely demi globes
+lovely fair complexion
+lovely fair tresses
+lovely fount of
+lovely girl presents
+lovely owner of
+lovely tumults lost
+lover of the
+lover that passes
+lover to a
+lovers of beauty
+lovers of carrots
+loves to restore
+loving bed-fellow and
+low countries are
+low stature and
+low-lands and should
+lower to the
+lowest part every
+lt n miss
+lt n no
+luminaries deceive you
+luscious age of
+luscious bed-fellow but
+luscious conflict is
+luscious desire can
+luscious idea refined
+luscious move to
+luscious treat to
+lustre peculiar to
+lusty she does
+luxuriancy of thought
+m lt n
+m rr s
+m rt n
+made a few
+made for the
+made little girl
+magic circle of
+maidenhead was penetrated
+majestic tall and
+mak st a
+make a heaven
+make a man
+make hay whilst
+make her a
+make many a
+make no doubt
+make some abatement
+make them a
+make truly genteel
+make wantonness delightful
+make you pant
+makes ample amends
+makes its bed
+man a friend
+man blest with
+man capable of
+man come nay
+man is clever
+man is to
+man of pleasure^s
+man of sixty
+man rather advanced
+man that has
+man^s pocket is
+man^s stomach and
+mankind to rapture
+manner but abounding
+manner you win
+manners as yet
+manoeuvre in the
+manoeuvre knowing how
+manoeuvre necessary to
+mansion rais^d on
+manual pressure firm
+manual pressure to
+many a graceful
+many a titled
+many degrees above
+many of their
+many others of
+many pleasing airs
+many preceding years
+many times as
+many to act
+mark my eyes
+mark of business
+mark the smoothest
+markable above the
+market give me
+market let nature
+marks in a
+married very young
+mars experience finishes
+mart of pleasure
+master a sea
+masterly hand of
+match turk gregory
+may all with
+may be about
+may be expected
+may be justly
+may be perfectly
+may be reasonably
+may conclude from
+may cry out
+may gain the
+may give a
+may he come
+may his very
+may however prove
+may please some
+may point the
+may put their
+may rather wonder
+may require personal
+may say when
+may the man
+may wish not
+may with truth
+may yet be
+may you behold
+may you revel
+me be she
+me but thee
+me i have
+me plenty of
+me than to
+medicis her disposition
+mediocrity in size
+meet him midway
+meet with snug
+meets therein with
+melt in her
+melt the most
+melt the soul
+melting glance the
+mem- ber to
+member then may
+menatal alabaster the
+mend her as
+ment may cry
+ment nature has
+ment of her
+mention to her
+mercenary that a
+mere sensualist will
+mere silly quarrel
+merely for support
+merit and her
+merit and it
+merry as herself
+method from a
+middle size and
+middle size light
+middle size she
+middle stature fine
+middlesex hospital mark
+middlesex we cannot
+mids white as
+midway with true
+might appear to
+might be led
+might be taken
+might be very
+might make many
+might perform the
+might revel in
+might shame the
+might truly be
+mind of woman
+mind rarely very
+mind replete with
+mind with all
+minerva her figure
+minute drags a
+mirth and good
+miss b rn
+miss betsy cl
+miss betsy r
+miss c p
+miss c rb
+miss cl rk
+miss d gl
+miss elizabeth w
+miss g rge
+miss gr n
+miss k n
+miss l v
+miss m lt
+miss m nt
+miss m rr
+miss miss d
+miss miss j
+miss miss m
+miss nancy d
+miss phoebe b
+miss r b
+miss r ch
+miss s ms
+miss s tt
+miss sophia m
+miss w d
+miss w ll
+mistaken and tired
+mistress of all
+mistress of every
+mistress of the
+moderation in not
+moft probably when
+moft tempting en
+molded for the
+moment in short
+moment that we
+moment with all
+momomentary delirium and
+money by seeming
+month had not
+months ago from
+months ago to
+months and ex-
+months for a
+months has this
+months indeed her
+months she cannot
+months voyage with
+months we have
+monu- menatal alabaster
+morato^s she is
+more and though
+more by the
+more delicious than
+more desirable as
+more desirable bed-fellow
+more enchanting her
+more essential bliss
+more he^d try
+more honest than
+more ladies of
+more perhaps he
+more than ten
+more than three
+more this lady
+morn unfolds her
+morn when tir^d
+morning for one
+morning succeedimg a
+mortal man is
+moss covered grotto
+most a beautiful
+most admirable work
+most agreeable companion
+most animated work
+most celebrated ladies
+most delicious swell
+most elegant poets
+most en- chanting
+most enchanting bedfellow
+most endearing chemistry
+most exquisite of
+most in- flamed
+most inviting darkness
+most lively hazel
+most luscious desire
+most natural vent
+most of the
+most powerful glances
+most snowy of
+most torpid dispolition
+most who behold
+mother she reached
+motives of cleanliness
+motives of con-
+mould to cast
+moulton-street hast thou
+mount above has
+mount all join
+mount and sportive
+mount and whether
+mour and a
+mouth and extraordinary
+mouth is small
+move and find
+move to destroy
+moving stars are
+mr b a
+mr b rd
+mr h nn
+mr l-d-tt who
+mrs cr sby
+mrs d f
+mrs d v
+mrs e t
+mrs h ll
+mrs h rv
+mrs h w
+mrs kelly^s duke-street
+mrs l w
+mrs mrs h
+mrs t rb
+mrs w d
+much artless simplicity
+much as she
+much beauty as
+much larger bulk
+much lik^d by
+much of the
+murmur the transports
+music is played
+musick and there
+musick^s good and
+must be acknowledged
+must be an
+must be pleased
+must call their
+must from her
+must have began
+must have opened
+must instantly begin
+must not approach
+must not be
+must not mention
+mutual interchange of
+mutual kisses fir^d
+mutual regard and
+mutuality at present
+my blood and
+my brown apple
+my eyes and
+my face till
+my soul is
+my soul shall
+my soul whither
+mysteries of venus
+n are pleasing
+n at mrs
+n b she
+n castle-street oxford
+n miss m
+n miss t
+n miss w
+n no bennett-
+n no berwick-street
+n no glanville-street
+n no goodge
+n no little
+n s miss
+n s st
+n t n
+na- turalist she
+na- turally arise
+naked beauties are
+naked figure which
+naked she is
+name from her
+name of ogl
+name she assumes
+name she borrows
+name she now
+name she still
+nancy and a
+nancy and for
+nancy she was
+native freedom which
+native plains soon
+natural daughter of
+natural firmness she
+natural invader of
+natural key she
+natural vent that
+naturally of a
+nature and affability
+nature by tender
+nature calls aloud
+nature empty her
+nature ever planted
+nature in this
+nature quite exhausted
+nature shaded by
+nature speak and
+nature stands affected
+nature to repeti-
+nature who draw
+nature wound up
+nay we advise
+nd is a
+nd no frith-street
+nd no york-street
+near middlesex hospital
+near two years
+neat a leg
+neat and can
+neat and elegant
+neat shoe she
+necessary to restore
+necessary to stamp
+necessity of parading
+neck and breasts
+neck white as
+nectar fraught and
+nectar of the
+nectar-distilling lips pour
+nectarious balm and
+needless her eyes
+neglecting she could
+neighbouring hills below
+neither extra- vagant
+neither of these
+neptune she chose
+nereids round her
+nerve propels and
+never failing delight
+never have been
+never out in
+never refuses any
+never sleeps out
+never wishes to
+nevertheless a desirable
+new heat return^d
+new pink ribband
+newman street her
+next door to
+nice in the
+nicest regularity the
+nigher her hand
+night and at
+night in your
+night only six
+night pleasure and
+night she ex-
+night she loves
+night should give
+night to find
+night with stranger
+night^s en- tertainment
+night^s siege expects
+nile frequently to
+nine full tranfports
+nine tenths of
+nine- teen this
+nineteen can sing
+nineteen her ima-
+nineteen with beautiful
+nineteen years is
+nineteen years of
+nineteenth year and
+nineteenth year can-
+nly face at
+nn h both
+no advice can
+no bennett- street
+no bentick street
+no berwick-street soho
+no flower that
+no frith-street a
+no george street
+no goodge steet
+no hind-court fleet
+no king- street
+no lisle-street leicester
+no little russel-street
+no newman street
+no ogle street
+no old compton
+no particular friend
+no poland-street see
+no pretensions to
+no queen anne
+no salisbury-street strand
+no small degree
+no stephen-street rathbone
+no time shall
+no titchfield-street the
+no tune within
+no union-street oxford-road
+no wells- street
+noble elasticity in
+noble feeling and
+nonsense the mere
+noon and e
+noon and evening
+nor are the
+nor do their
+nor their actions
+nor will she
+nor will those
+nor wished for
+not above twenty
+not afraid of
+not allow of
+not approach her
+not at all
+not at home
+not be disappointed
+not degrade herself
+not elapsed in
+not ex- pecting
+not exactly suit
+not extend beyond
+not find her
+not knowing how
+not mention to
+not possess either
+not possibly have
+not produce foecundity
+not quite satisfied
+not receive on
+not refuse half
+not refuse the
+not rely on
+not soon disposed
+not sported her
