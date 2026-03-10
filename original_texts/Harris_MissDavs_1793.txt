@@ -1,11 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<!-- Translation from RTF performed by UnRTF, version 0.21.10 -->
-</head>
-<body>Miss Dav&mdash;s, No. 28, Margaret-street, Oxford Market.<br>
-<br>
+Miss Dav&mdash;s, No. 28, Margaret-street, Oxford Market.
 Is a fine tall young woman, of about eighteen, has a fair complexion, <br>
 and excellent features; her mouth is small, and looks when closed, <br>
 like a rose when it begins to bud; her eyes, however, are no great <br>
