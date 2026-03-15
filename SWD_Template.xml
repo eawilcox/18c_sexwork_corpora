@@ -115,6 +115,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                <category xml:id="natural">
                 <catDesc>Descriptions of naturalness in relationship to beauty or body</catDesc>
                 </category>
+
+                <category xml:id="artifice">
+                <catDesc>Descritions on artifice or artificiality</catDesc>
+                </category>
+                
                
             </taxonomy>
             
