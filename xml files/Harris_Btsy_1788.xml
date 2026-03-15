@@ -99,8 +99,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                 </category>
 
                 <category xml:id="artifice">
-                <catDesc>Descritions on artifice or artificiality</catDesc>
+                <catDesc>Descriptions on artifice or artificiality</catDesc>
                 </category>
+
+                <category xml:id="bawd">
+                <catDesc> Descriptions of bawds, bawdy houses, or bawdly behavior</catDesc>
                 
                
             </taxonomy>
@@ -165,17 +168,17 @@ is <seg ana="body">delicately and genteely form'd, about<br>
 the middle size, very young and spright-<br>
 ly</seg>, and modest in her conversation, ex-<br>
 cept when proper occasions demand wan-<br>
-ton freedom; her hair and eyes are black,<br>
-and her teeth remarkably white, through<br>
+ton freedom; <seg ana="#body">her hair and eyes are black,<br>
+and her teeth remarkably white</seg>, through<br>
 which she plays the velvet tip with un-<br>
 common grace and ardour; we cannot<br>
 pretend to say who cropt the virgin bud<br>
 from the beautiful tree, but it could be<br>
 long before she put herself under the care<br>
-and direction of Mrs. K----, and under<br>
+and direction of<seg ana="bawd">Mrs. K----, and under<br>
 such a tutoress we have no doubt but she<br>
 will be soon such a complete mistress of<br>
-her business, that join'd with her personal<br>
+her business</seg>, that join'd with her personal<br>
 accomplishments, will bring her into the<br>
 molt elevated life. Many of the post<br>
 steeds of Venus have been so often hack'd,<br>
@@ -191,15 +194,15 @@ who have possess'd her speak with rap-<br>
 tures of the joy she bestows, they say the<br>
 beauties she displays when drest, great<br>
 as they are, are trivial to those which cus-<br>
-tom keeps concealed; they say the mossy<br>
-grot of Venus is perfectly enchanting;<br>
+tom keeps concealed; they say the <seg ana="natural">mossy<br>
+grot of Venus</seg> is perfectly enchanting;<br>
 her thighs are two alabaster pillars,<br>
 which with the ebon tendril that play in<br>
 wanton ringlets round the grot, and<br>
-the crimson lining of the elastic portals,<br>
+the <seg ana="artifice">crimson lining of the elastic portals,<br>
 form together that perfect _clare obscure_, so<br>
 much admir'd in painting, and which al-<br>
-ways produce a most pleasing effect; that<br>
+ways produce a most pleasing effect</seg>; that<br>
 her lovely snowy breasts are quickly be-<br>
 spread with purple meandring veins, and<br>
 that her murmurs, her broken sighs of<br>

@@ -16,14 +16,15 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
       <fileDesc>
          
          <titleStmt>
-            <title>Sample Eighteenth-Century Text</title>
-            <author>Author Name</author>
-            <editor>TEI Encoding by Your Name</editor>
+              <title>HARRIS's LIST OF COVENT-GARDEN LADIES: OOR, MAN OF PLEASURE'S KALENDAR FOR THE YEAR, 1788. CONTAINING The Histories and some Curious Anecdotes of the most celebrated Ladies
+               now on the Town, or in keeing, and also manyh of their keepers</title>
+            <author>M. RANGER</author>
+            <editor>TEI Encoding by EA Wilcox</editor>
          </titleStmt>
          
          <publicationStmt>
-            <publisher>Your Project or Institution</publisher>
-            <pubPlace>City</pubPlace>
+            <publisher>Eighteenth Century Sex Work Database</publisher>
+            <pubPlace>Knoxville</pubPlace>
             <date when="2026">2026</date>
             
             <availability>
@@ -36,11 +37,12 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
          
          <sourceDesc>
             <bibl>
-               <author>Original Author</author>
-               <title>Original Title</title>
+               <author>Annymous</author>
+               <title>HARRIS's LIST OF COVENT-GARDEN LADIES: OOR, MAN OF PLEASURE'S KALENDAR FOR THE YEAR, 1788. CONTAINING The Histories and some Curious Anecdotes of the most celebrated Ladies
+               now on the Town, or in keeing, and also manyh of their keepers</title>
                <pubPlace>London</pubPlace>
-               <publisher>Original Publisher</publisher>
-               <date when="1780">1780</date>
+               <publisher></publisher>
+               <date when="1788">1788</date>
             </bibl>
          </sourceDesc>
          
@@ -69,16 +71,15 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
          
          <projectDesc>
             <p>
-               This digital edition encodes representations of femininity and beauty
-               in eighteenth-century literature using TEI XML.
-            </p>
+               This digital edition encodes ideas of beauty, femininity, and the body to highlight the way constructions of gender and sex function in these texts.
+            </p> 
          </projectDesc>
          
          <classDecl>
             
             <taxonomy xml:id="femininity">
                
-               <desc>Categories for encoding femininity and beauty</desc>
+              <desc>Categories for encoding femininity and beauty</desc>
                
                <category xml:id="beauty">
                   <catDesc>General references to female beauty</catDesc>
@@ -117,8 +118,11 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                 </category>
 
                 <category xml:id="artifice">
-                <catDesc>Descritions on artifice or artificiality</catDesc>
+                <catDesc>Descriptions on artifice or artificiality</catDesc>
                 </category>
+
+                <category xml:id="bawd">
+                <catDesc> Descriptions of bawds, bawdy houses, or bawdly behavior</catDesc>
                 
                
             </taxonomy>
