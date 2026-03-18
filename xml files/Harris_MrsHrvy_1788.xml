@@ -222,23 +222,23 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
         here may he come, and taste every joy<br>
         the most luscious desire can wish; here<br>
         may his very sense be fed, nor know<br>
-        satiety, for joined to a beautiful face, an<br>
-        elegant form, and a graceful manner,<br>
-        you win find the agreeable companion,<br>
+        satiety, for joined to <seg ana="body"><seg ana="temperment">a beautiful face</seg>, an<br>
+        elegant form, and a graceful manner</seg>,<br>
+        you win find the <seg ana="temperment">agreeable companion,<br>
         the good humoured girl, and the most<br>
-        enchanting bedfellow; young, and not<br>
+        enchanting bedfellow</seg>; young, and not<br>
         more than three months _on_ the town, or<br>
-        _in_ the town, fine hazel love-swimming<br>
+        _in_ the town, <seg ana="body">fine hazel love-swimming<br>
         eyes, and dark brown hair, which left to<br>
-        twine in nature's wanton folds, plays<br>
+        twine in <seg ana="natural">nature's wanton folds</seg>, plays<br>
         loosely over a neck white as snow un-<br>
-        sunned, and sweetly shades the most en-<br>
+        sunned, and <seg ana="natural">sweetly shades the most en-<br>
         chanting _love hillocks_ nature ever planted<br>
         _below_, a jetty _black_ surrounds the _pouting<br>
         mansion_, rais'd on a pair of pillars that<br>
         might _shame_ the _whitest_, or mark the<br>
-        smoothest alabaster, that twine in the<br>
-        amorous encounter, and seem to partake<br>
+        smoothest alabaster</seg>, that twine in the<br>
+        amorous encounter</seg>, and seem to partake<br>
         of that pleasure in the dye-away moment,<br>
         that we cannot pretend to set any value<br>
          </p>
