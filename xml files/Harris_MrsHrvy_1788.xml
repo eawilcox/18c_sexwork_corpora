@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:xi="http://www.w3.org/2001/XInclude"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:math="http://www.w3.org/1998/Math/MathML"
+   xmlns:html="http://www.w3.org/1999/xhtml">
+   
+   <teiHeader>
+      
+      <fileDesc>
+         
+         <titleStmt>
+              <title>HARRIS's LIST OF COVENT-GARDEN LADIES: OOR, MAN OF PLEASURE'S KALENDAR FOR THE YEAR, 1788. CONTAINING The Histories and some Curious Anecdotes of the most celebrated Ladies
+               now on the Town, or in keeing, and also manyh of their keepers</title>
+            <author>M. RANGER</author>
+            <editor>TEI Encoding by EA Wilcox</editor>
+         </titleStmt>
+         
+         <publicationStmt>
+            <publisher>Eighteenth Century Sex Work Database</publisher>
+            <pubPlace>Knoxville</pubPlace>
+            <date when="2026">2026</date>
+            
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  Creative Commons Attribution 4.0
+               </licence>
+            </availability>
+            
+         </publicationStmt>
+         
+         <sourceDesc>
+            <bibl>
+               <author>Annymous</author>
+               <title>HARRIS's LIST OF COVENT-GARDEN LADIES: OOR, MAN OF PLEASURE'S KALENDAR FOR THE YEAR, 1788. CONTAINING The Histories and some Curious Anecdotes of the most celebrated Ladies
+               now on the Town, or in keeing, and also manyh of their keepers</title>
+               <pubPlace>London</pubPlace>
+               <publisher></publisher>
+               <date when="1788">1788</date>
+            </bibl>
+         </sourceDesc>
+         
+      </fileDesc>
+      
+      <encodingDesc>
+         
+         <tagsDecl>
+            
+            <rendition xml:id="blue" scheme="css">color:blue;</rendition>
+            
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+            
+            <rendition xml:id="i" scheme="css">font-style:italic;</rendition>
+            
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            
+            <rendition xml:id="center" scheme="css">
+               display:block;
+               text-align:center;
+               margin-left:auto;
+               margin-right:auto;
+            </rendition>
+            
+         </tagsDecl>
+         
+         <projectDesc>
+            <p>
+               This digital edition encodes ideas of beauty, femininity, and the body to highlight the way constructions of gender and sex function in these texts.
+            </p> 
+         </projectDesc>
+         
+         <classDecl>
+            
+            <taxonomy xml:id="femininity">
+               
+              <desc>Categories for encoding femininity and beauty</desc>
+               
+               <category xml:id="beauty">
+                  <catDesc>General references to female beauty</catDesc>
+               </category>
+               
+               <category xml:id="body">
+                  <catDesc>Descriptions of bodily features</catDesc>
+               </category>
+               
+               <category xml:id="complexion">
+                  <catDesc>Descriptions of skin tone or color</catDesc>
+               </category>
+               
+               <category xml:id="dress">
+                  <catDesc>Clothing and ornament</catDesc>
+               </category>
+               
+               <category xml:id="virtue">
+                  <catDesc>Moralized femininity such as modesty or delicacy</catDesc>
+               </category>
+               
+               <category xml:id="sensibility">
+                  <catDesc>Emotional refinement associated with sensibility</catDesc>
+               </category>
+               
+               <category xml:id="gaze">
+                  <catDesc>Moments when a woman is visually admired or evaluated</catDesc>
+               </category>
+               
+               <category xml:id="racialized_beauty">
+                  <catDesc>Descriptions linking beauty to race or skin color</catDesc>
+               </category>
+
+               <category xml:id="natural">
+                <catDesc>Descriptions of naturalness in relationship to beauty or body</catDesc>
+                </category>
+
+                <category xml:id="artifice">
+                <catDesc>Descriptions on artifice or artificiality</catDesc>
+                </category>
+
+                <category xml:id="bawd">
+                <catDesc> Descriptions of bawds, bawdy houses, or bawdly behavior</catDesc>
+                </category>
+
+                <category xml:id="nature">
+                <catDesc> Descriptions of the temperment or nature of a sex worker</catDesc>
+                </category>
+
+                <category xml:id="emotion">
+                <catDesc>Descriptions of the emotions of a sex worker</catDesc>
+                </category>
+
+
+                
+               
+            </taxonomy>
+            
+         </classDecl>
+         
+      </encodingDesc>
+      
+      <profileDesc>
+         
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         
+         <particDesc>
+            
+            <listPerson>
+               
+               <person xml:id="MrsHrvy">
+                  <persName>Mrs. H--rv--y</persName>
+                  <sex value="female"/>
+               </person>
+               
+            </listPerson>
+            
+         </particDesc>
+         
+      </profileDesc>
+      
+      <revisionDesc>
+         <change when="2026-03-18">
+            Initial TEI encoding.
+         </change>
+      </revisionDesc>
+      
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>
+        Mrs. H--rv--y, No. 21, _Queen Ann<br>
+        Street East_.<br>
+        <br>
+        Behold <seg ana="natural">those eyes that swim in humid fires</seg>,<br>
+        And trace her wanton thoughts and young<br>
+        desires;<br>
+        <seg ana="natural">Taste those sweet lips, with balmy Nectar<br>
+        fraught,</seg><br>
+        And all the rich luxuriancy of thought:<br>
+        Press <seg ana="body">her soft bosom</seg>--seat of swelling joy,<br>
+        <seg ana="temperment">Whose charms invite the rosy pinion'd boy</seg>;<br>
+        Who, fluttering here, may point the unerring<br>
+        dart,<br>
+        Flash in each eye, and revel in each heart,<br>
+        Till bolder grown, <seg ana="body">your hand insatiate rove</seg>,<br>
+        O'er her <seg ana="body"><seg ana="natural">delightful _mount_ and _sportive grove_</seg></seg>;<br>
+        Then <seg ana="body">all her limbs unbound</seg>,<seg ana="dress"> her girdle loose</seg>,<br>
+        There's nothing you can ask her, she'll refuse.<br>
+        <br>
+        The above lines, from one of the<br>
+        warmest and most elegant poets fancy<br>
+        ever favoured, might be very justly ap-<br>
+        plied to this charming girl. Rich with<br>
+        the glow of youth, and the charms of a<br>
+        person, in which nature has been lavishly<br>
+        bountiful, she possesses a mind rarely,<br>
+        very rarely met with in the frail<br>
+        daughters of pleasure; <seg ana="temperment">generous, free-<br>
+        hearted, noble, feeling, and disinterested,<br>
+        might appear to be too high sounding<br>
+        epithets for a woman of this dercription</seg>.<br>
+        But however strange, it is not less strange<br>
+        than true; for she possesses qualities,<br>
+        which the want of, might make many a<br>
+        titled dame, poessessed of that single virtue,<br>
+        (or at least appearing to possess it) that<br>
+        she has unfortunately lost,--blush, for<br>
+        they may all with the strictest truth be<br>
+        applied to her. Here then, may the<br>
+        man come, (nay, we advise him to) who<br>
+        wishes in the morning, succeedimg a de-<br>
+        licious night, to find his person and his<br>
+        purse safe, and his health uninjured;<br>
+        here may he come, and taste every joy<br>
+        the most luscious desire can wish; here<br>
+        may his very sense be fed, nor know<br>
+        satiety, for joined to a beautiful face, an<br>
+        elegant form, and a graceful manner,<br>
+        you win find the agreeable companion,<br>
+        the good humoured girl, and the most<br>
+        enchanting bedfellow; young, and not<br>
+        more than three months _on_ the town, or<br>
+        _in_ the town, fine hazel love-swimming<br>
+        eyes, and dark brown hair, which left to<br>
+        twine in nature's wanton folds, plays<br>
+        loosely over a neck white as snow un-<br>
+        sunned, and sweetly shades the most en-<br>
+        chanting _love hillocks_ nature ever planted<br>
+        _below_, a jetty _black_ surrounds the _pouting<br>
+        mansion_, rais'd on a pair of pillars that<br>
+        might _shame_ the _whitest_, or mark the<br>
+        smoothest alabaster, that twine in the<br>
+        amorous encounter, and seem to partake<br>
+        of that pleasure in the dye-away moment,<br>
+        that we cannot pretend to set any value<br>
+         </p>
+         
+      </body>
+      
+   </text>
+   
+</TEI>
