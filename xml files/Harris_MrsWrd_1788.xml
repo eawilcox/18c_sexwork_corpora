@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:xi="http://www.w3.org/2001/XInclude"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:math="http://www.w3.org/1998/Math/MathML"
+   xmlns:html="http://www.w3.org/1999/xhtml">
+   
+   <teiHeader>
+      
+      <fileDesc>
+         
+         <titleStmt>
+              <title>HARRIS's LIST OF COVENT-GARDEN LADIES: OOR, MAN OF PLEASURE'S KALENDAR FOR THE YEAR, 1788. CONTAINING The Histories and some Curious Anecdotes of the most celebrated Ladies
+               now on the Town, or in keeing, and also manyh of their keepers</title>
+            <author>M. RANGER</author>
+            <editor>TEI Encoding by EA Wilcox</editor>
+         </titleStmt>
+         
+         <publicationStmt>
+            <publisher>Eighteenth Century Sex Work Database</publisher>
+            <pubPlace>Knoxville</pubPlace>
+            <date when="2026">2026</date>
+            
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  Creative Commons Attribution 4.0
+               </licence>
+            </availability>
+            
+         </publicationStmt>
+         
+         <sourceDesc>
+            <bibl>
+               <author>Annymous</author>
+               <title>HARRIS's LIST OF COVENT-GARDEN LADIES: OOR, MAN OF PLEASURE'S KALENDAR FOR THE YEAR, 1788. CONTAINING The Histories and some Curious Anecdotes of the most celebrated Ladies
+               now on the Town, or in keeing, and also manyh of their keepers</title>
+               <pubPlace>London</pubPlace>
+               <publisher></publisher>
+               <date when="1788">1788</date>
+            </bibl>
+         </sourceDesc>
+         
+      </fileDesc>
+      
+      <encodingDesc>
+         
+         <tagsDecl>
+            
+            <rendition xml:id="blue" scheme="css">color:blue;</rendition>
+            
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+            
+            <rendition xml:id="i" scheme="css">font-style:italic;</rendition>
+            
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            
+            <rendition xml:id="center" scheme="css">
+               display:block;
+               text-align:center;
+               margin-left:auto;
+               margin-right:auto;
+            </rendition>
+            
+         </tagsDecl>
+         
+         <projectDesc>
+            <p>
+               This digital edition encodes ideas of beauty, femininity, and the body to highlight the way constructions of gender and sex function in these texts.
+            </p> 
+         </projectDesc>
+         
+         <classDecl>
+            
+            <taxonomy xml:id="femininity">
+               
+              <desc>Categories for encoding femininity and beauty</desc>
+               
+               <category xml:id="beauty">
+                  <catDesc>General references to female beauty</catDesc>
+               </category>
+               
+               <category xml:id="body">
+                  <catDesc>Descriptions of bodily features</catDesc>
+               </category>
+               
+               <category xml:id="complexion">
+                  <catDesc>Descriptions of skin tone or color</catDesc>
+               </category>
+               
+               <category xml:id="dress">
+                  <catDesc>Clothing and ornament</catDesc>
+               </category>
+               
+               <category xml:id="virtue">
+                  <catDesc>Moralized femininity such as modesty or delicacy</catDesc>
+               </category>
+               
+               <category xml:id="sensibility">
+                  <catDesc>Emotional refinement associated with sensibility</catDesc>
+               </category>
+               
+               <category xml:id="gaze">
+                  <catDesc>Moments when a woman is visually admired or evaluated</catDesc>
+               </category>
+               
+               <category xml:id="racialized_beauty">
+                  <catDesc>Descriptions linking beauty to race or skin color</catDesc>
+               </category>
+
+               <category xml:id="natural">
+                <catDesc>Descriptions of naturalness in relationship to beauty or body</catDesc>
+                </category>
+
+                <category xml:id="artifice">
+                <catDesc>Descriptions on artifice or artificiality</catDesc>
+                </category>
+
+                <category xml:id="bawd">
+                <catDesc> Descriptions of bawds, bawdy houses, or bawdly behavior</catDesc>
+                </category>
+
+                <category xml:id="nature">
+                <catDesc> Descriptions of the temperment or nature of a sex worker</catDesc>
+                </category>
+
+                <category xml:id="emotion">
+                <catDesc>Descriptions of the emotions of a sex worker</catDesc>
+                </category>
+
+
+                
+               
+            </taxonomy>
+            
+         </classDecl>
+         
+      </encodingDesc>
+      
+      <profileDesc>
+         
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         
+         <particDesc>
+            
+            <listPerson>
+               
+               <person xml:id="MrsWrd">
+                  <persName>Mrs. W--rd</persName>
+                  <sex value="female"/>
+               </person>
+               
+            </listPerson>
+            
+         </particDesc>
+         
+      </profileDesc>
+      
+      <revisionDesc>
+         <change when="2026-03-18">
+            Initial TEI encoding.
+         </change>
+      </revisionDesc>
+      
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>
+        Mrs, W--rd, No. 19, _Union Street,<br>
+         Middlesex Hospital_.<br>
+        <br>
+        There is a joy to melt in her embrace,<br>
+        Dissolve in pleasures, not in delights.<br>
+        <br>
+        She is a <seg ana="complexion">fine lusty</seg> well looking lady;<br>
+        <seg ana="body">her eyes and hair are dark; her teeth<br>
+        good, and her age about thirty</seg>; she sees<br>
+        much company, and none depart unsatis-<br>
+        fied, <seg ana="temperment">it being her study to please, and her<br>
+        pride to be thought worthy of a second<br>
+        visit</seg>. She is <seg ana="body">very careful of her health,<br>
+        and where she has the least reason to<br>
+        suspect infection, is very strict in examin-<br>
+        ing the ambassador of love e'er she re-<br>
+        ceives his tribute</seg>. Tho' a very generous<br>
+        dealer, and one who has dealt in our<br>
+        market at least ten years, she does not<br>
+        appear to be quite void of sensibility;<br>
+        but seems to <seg ana="temperment">give pleasing proofs that she<br>
+        feels delight, as well as bestows it</seg>. Her<br>
+        old friend, whose name she stole, has<br>
+        been long dead, and by his death has<br>
+        reduced her to accept of almost any sum<br>
+        her paramour offers.<br>
+         </p>
+         
+      </body>
+      
+   </text>
+   
+</TEI>
