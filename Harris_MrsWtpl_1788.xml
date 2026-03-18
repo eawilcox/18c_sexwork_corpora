@@ -132,8 +132,6 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
                 <category xml:id="emotion">
                 <catDesc>Descriptions of the emotions of a sex worker</catDesc>
                 </category>
-
-
                 
                
             </taxonomy>
@@ -176,7 +174,30 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
       <body>
          
          <p>
-            Test test test
+            Mrs, W--tp--l, No. 2, _Poland-Street,<br>
+            Oxford-Street_.<br>
+<br>
+ She smil'd, and gave a kiss might Jove disarm,<br>
+ And from his hand the brandished thunder<br>
+ charm.<br>
+<br>
+ If this <seg ana="nature">good natured willing girl</seg> should<br>
+chance to be engaged herself, she will<br>
+with the greatest pleasure provide her<br>
+gentleman with another companion;<br>
+she is a genteel woman, and a very<br>
+<seg ana="emotion">chearful</seg> companion, completely mis-<br>
+tress of the sport, and can _turn_ and<br>
+_twist_ in all the enchanting folds of love,<br>
+and press you to her breast,<br>
+ In all the extatic raptures of a lover;<br>
+will enjoy, or seem to enjoy, every _high<br>
+toned_ sensation; will bend eagerly to<br>
+meet the _succulent shower_ of b1iss, and<br>
+repeat the amorous content as frequently<br>
+as you please, being first _convinced_ that<br>
+you will make her a guinea richer in the<br>
+morning.<br>
          </p>
          
       </body>
