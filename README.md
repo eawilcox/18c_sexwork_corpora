@@ -5,7 +5,8 @@ An in-progress corpus and data repository for eighteenth-century sex work resear
 
 1. Browse the corpus  
 - `original_texts/` contains source text files (primarily `.txt`, with some `.rtf`) prepared for reading, searching, and downstream processing.
-- `wordlist.txt` contains a working term list for searching/flagging language relevant to sex work (work-in-progress; treat as suggestive rather than exhaustive).
+- `xml files` contains the encoded TEI files prepared for later transformation through XSLT
+
 1. Working with the texts
 - For quick analysis, you can run plain-text searches (ripgrep/grep) across `original_texts/`.
 
