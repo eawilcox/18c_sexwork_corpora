@@ -27,14 +27,14 @@ This repository supports DH workflows that combine:
 
 - Corpus building: collecting, versioning, and documenting transcriptions/editions
 - Text preparation: format conversion, cleaning, tokenization, normalization
-- Exploratory analysis: keyword searching and iterative expansion of `wordlist.txt`
+- Exploratory analysis: keyword searching and iterative expansion of <seg ana="example"> categories
 - Future structured data work: moving from plain corpus files toward consistent, machine-readable records (using the provided template as a starting point)
 
 ## Citation
 
 Until a formal release is prepared, cite as:
 
-EA Wilcox. *18c_sexwork_corpora* (in-progress repository). GitHub: https://github.com/eawilcox/18c_sexwork_corpora. Accessed YYYY-MM-DD.
+EA Wilcox. *18c_sexwork_corpora* (in-progress repository). GitHub: https://github.com/eawilcox/18c_sexwork_corpora. https://doi.org/10.5281/zenodo.19027604. Accessed YYYY-MM-DD.
 
 If you use a specific file, include the filename and the commit hash in your citation for reproducibility.
 
