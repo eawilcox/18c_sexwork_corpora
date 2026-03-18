@@ -150,8 +150,8 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
             
             <listPerson>
                
-               <person xml:id="NAME">
-                  <persName></persName>
+               <person xml:id="Mrs.Wtpl">
+                  <persName>Mrs. Wtpl</persName>
                   <sex value="female"/>
                </person>
                
@@ -162,7 +162,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
       </profileDesc>
       
       <revisionDesc>
-         <change when="2026-03-14">
+         <change when="2026-03-18">
             Initial TEI encoding.
          </change>
       </revisionDesc>
@@ -189,9 +189,9 @@ she is a genteel woman, and a very<br>
 <seg ana="emotion">chearful</seg> companion, completely mis-<br>
 tress of the sport, and can _turn_ and<br>
 _twist_ in all the enchanting folds of love,<br>
-and press you to her breast,<br>
+and press you to her <seg ana="body">breast</seg>,<br>
  In all the extatic raptures of a lover;<br>
-will enjoy, or seem to enjoy, every _high<br>
+<seg ana="temperment">will enjoy, or seem to enjoy</seg>, every _high<br>
 toned_ sensation; will bend eagerly to<br>
 meet the _succulent shower_ of b1iss, and<br>
 repeat the amorous content as frequently<br>
